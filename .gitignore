@@ -1,0 +1,9 @@
+﻿# 采集中间产物(可由 scripts/collect.mjs 重新生成)
+data/routes/
+# 测试夹具(由 scripts/make-test-fixture.mjs 生成)
+test/mockdata.lua
+# 日志
+*.log
+*.err
+archive/
+test/output/

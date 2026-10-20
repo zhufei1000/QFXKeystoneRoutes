@@ -1,0 +1,15 @@
+## Interface: 120107, 120105, 120100
+## Title: QFX Keystone Routes
+## Title-zhCN: QFX 大秘境路线
+## Author: QFX
+## Version: 1.0.0
+## Notes: Shows popular keystone.guru routes in a side panel next to Mythic Dungeon Tools, with one-click import.
+## Notes-zhCN: 在 MDT 右侧显示 keystone.guru 热门路线，支持一键导入。
+## Dependencies: MythicDungeonTools, MythicDungeonTools_UI
+## SavedVariables: QFXKeystoneRoutesDB
+## X-Curse-Project-ID: 0
+
+data\Data.lua
+Core.lua
+QFXWidgets.lua
+Panel.lua

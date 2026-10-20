@@ -1,0 +1,16 @@
+{
+  "version": "20261020T054003Z",
+  "generatedAt": "2026-10-20T05:40:03.868Z",
+  "dungeons": {
+    "altar-of-fangs": 18,
+    "den-of-nalorakk": 18,
+    "murder-row": 18,
+    "the-blinding-vale": 18,
+    "voidscar-arena": 18,
+    "ruby-life-pools": 18,
+    "kings-rest": 18,
+    "temple-of-sethraliss": 18
+  },
+  "routeCount": 144,
+  "requestCount": 296
+}

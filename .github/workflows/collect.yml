@@ -1,0 +1,78 @@
+name: Collect keystone.guru routes
+
+# 每天触发，由 scripts/collect.mjs 内部的 48 小时闸门决定是否真的采集。
+# 这样既能容忍 GitHub 调度延迟与偶发失败，又能让仓库保持活跃
+# （避免 schedule 因 60 天无活动被停用）。
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: '忽略 48h 闸门，立即采集'
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/collect.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-routes
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force || 'false' }}
+      KG_USER_AGENT: 'QFXKeystoneRoutes-collector/1.0 (+https://github.com/${{ github.repository }})'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+
+      - name: Collect routes
+        run: node scripts/collect.mjs --limit 18 --min-interval-hours 48
+
+      - name: Verify data pack
+        run: node scripts/verify-pack.mjs
+
+      - name: Commit data
+        if: success() && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if git diff --staged --quiet; then
+            echo '数据无变化，跳过提交'
+          else
+            git diff --staged --stat
+            git commit -m "data: $(node -p "require('./data/manifest.json').version") @ $(date -u +%FT%TZ)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Upload data package
+        if: success()
+        uses: actions/upload-artifact@v7
+        with:
+          name: keystone-routes-data
+          path: |
+            data/Data.lua
+            data/meta.json
+            data/manifest.json
+          if-no-files-found: error
+          retention-days: 30
