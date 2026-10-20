@@ -1,5 +1,7 @@
 # QFX Keystone Routes
 
+[![Collect keystone.guru routes](https://github.com/zhufei1000/QFXKeystoneRoutes/actions/workflows/collect.yml/badge.svg)](https://github.com/zhufei1000/QFXKeystoneRoutes/actions/workflows/collect.yml)
+
 在 **Mythic Dungeon Tools (MDT)** 右侧显示 [keystone.guru](https://keystone.guru) 热门路线，支持**一键导入**到 MDT。
 
 ---
