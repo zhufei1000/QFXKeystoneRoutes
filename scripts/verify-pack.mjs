@@ -4,6 +4,8 @@ import { readFileSync } from 'node:fs';
 import { buildPack, readPack, runtimeMeta, unpack } from './pack-data.mjs';
 
 const readJson = path => JSON.parse(readFileSync(path, 'utf8'));
+// Windows checkouts may use CRLF; line endings are not part of the pack contract.
+const lf = text => text.replace(/\r\n/g, '\n');
 
 const meta = readJson('data/meta.json');
 const manifest = readJson('data/manifest.json');
@@ -48,6 +50,6 @@ for (const [slug, dungeon] of Object.entries(meta.dungeons)) {
 assert.equal(total, manifest.routeCount, 'manifest.json routeCount differs from the pack');
 assert.equal(total, Object.values(meta.dungeons).reduce((sum, d) => sum + (d.routes?.length || 0), 0),
   'meta.json route count differs from the pack');
-assert.equal(buildPack(meta, pack.routeFiles), lua, 'Data.lua cannot be reproduced from meta.json and its route payloads');
+assert.equal(lf(buildPack(meta, pack.routeFiles)), lf(lua), 'Data.lua cannot be reproduced from meta.json and its route payloads');
 
 console.log(`PASS: ${Object.keys(meta.dungeons).length} dungeons, ${total} routes, ${(rawBytes / 1024).toFixed(1)} KB CBOR, version ${meta.version}`);

@@ -25,7 +25,8 @@ for (const [slug, texts] of Object.entries(original.routeFiles)) {
   assert.equal(start, bytes.length);
 }
 assert.equal(count, 144);
-assert.equal(buildPack(original.meta, original.routeFiles), lua, 'collector and offline packer agree');
+const lf = text => text.replace(/\r\n/g, '\n');
+assert.equal(lf(buildPack(original.meta, original.routeFiles)), lf(lua), 'collector and offline packer agree');
 const broken = structuredClone(original.routeFiles);
 broken['kings-rest'][0] = 'invalid MDT string';
 assert.throws(() => buildPack(original.meta, broken), /Unsupported MDT/);
