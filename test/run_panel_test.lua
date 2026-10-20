@@ -57,7 +57,8 @@ check('separate route title', row.title:GetText() == row._item.t)
 check('locale stock font', row.title.font == STANDARD_TEXT_FONT)
 check('single line title uses native clamp', row.title.maxLines == 1 and row.title.wordWrap == false)
 check('matching keystone level highlights', row.level.color[1] == QFXWidgets.Skin.good[1])
-check('stats use labels rather than symbols', row.stats:GetText():find('171') ~= nil and
+check('stats use labels rather than symbols',
+    row.stats:GetText():find(NS.FormatNumber(row._item.v), 1, true) ~= nil and
     not row.stats:GetText():find('♥', 1, true))
 check('scrollbar needed', P.scroll:GetMaxOffset() > 0)
 row:Fire('OnEnter')
