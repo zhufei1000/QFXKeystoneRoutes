@@ -9,11 +9,11 @@
      "t": "Skandar Tank - Altar of Fangs (+10 to +16 Keys)",
      "lm": 7,
      "lx": 15,
-     "v": 150357,
-     "ve": 391,
-     "p": 4904,
+     "v": 151431,
+     "ve": 407,
+     "p": 4871,
      "rt": 9,
-     "rc": 9,
+     "rc": 10,
      "a": "Skandar Tank",
      "ap": "4zkdIZp",
      "sx": 18,
@@ -48,142 +48,13 @@
      "d": "altar-of-fangs"
     },
     {
-     "pk": "Ybs97JR",
-     "t": "Skandar Tank - Altar of Fangs Higher Keys (+17 to +20)",
-     "lm": 7,
-     "lx": 7,
-     "v": 19312,
-     "ve": 10,
-     "p": 1459,
-     "rt": null,
-     "rc": 0,
-     "a": "Skandar Tank",
-     "ap": "4zkdIZp",
-     "sx": 18,
-     "mv": 1085,
-     "mcp": false,
-     "pub": "world",
-     "kg": 182,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 2,
-     "f": 22,
-     "d": "altar-of-fangs"
-    },
-    {
-     "pk": "vviWp8V",
-     "t": "Skandar Tank - Altar of Fangs Rank 1 Route (+21 to +23, 0.1% Title Keys)",
-     "lm": 7,
-     "lx": 7,
-     "v": 2142,
-     "ve": 5,
-     "p": 1046,
-     "rt": null,
-     "rc": 0,
-     "a": "Skandar Tank",
-     "ap": "4zkdIZp",
-     "sx": 18,
-     "mv": 1085,
-     "mcp": false,
-     "pub": "world",
-     "kg": 182,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 3,
-     "f": 4,
-     "d": "altar-of-fangs"
-    },
-    {
-     "pk": "k38j49M",
-     "t": "Altar of Fangs 12+ Pug Friendly",
-     "lm": 12,
-     "lx": 18,
-     "v": 5719,
-     "ve": 4,
-     "p": 1019,
-     "rt": null,
-     "rc": 0,
-     "a": "Crusciero#2689",
-     "ap": "aJktjMx",
-     "sx": 18,
-     "mv": 1085,
-     "mcp": false,
-     "pub": "world",
-     "kg": 182,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 4,
-     "f": 1,
-     "d": "altar-of-fangs"
-    },
-    {
      "pk": "0RhVlYt",
      "t": "elitzur_altar_1",
      "lm": 2,
      "lx": 17,
-     "v": 56857,
+     "v": 57237,
      "ve": 79,
-     "p": 897,
+     "p": 1582,
      "rt": 9.1,
      "rc": 6,
      "a": "elitzur",
@@ -215,30 +86,137 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 5,
+     "r": 2,
      "f": 19,
      "d": "altar-of-fangs"
     },
     {
-     "pk": "AZqt8I5",
-     "t": "Supers 12-20",
-     "lm": 12,
-     "lx": 20,
-     "v": 6198,
-     "ve": 3,
-     "p": 697,
+     "pk": "Ybs97JR",
+     "t": "Skandar Tank - Altar of Fangs Higher Keys (+17 to +20)",
+     "lm": 7,
+     "lx": 7,
+     "v": 19914,
+     "ve": 10,
+     "p": 1349,
      "rt": null,
      "rc": 0,
-     "a": "Supers",
-     "ap": "24q2mKX",
+     "a": "Skandar Tank",
+     "ap": "4zkdIZp",
      "sx": 18,
      "mv": 1085,
      "mcp": false,
      "pub": "world",
      "kg": 182,
-     "af": [],
-     "r": 6,
-     "f": 0,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 3,
+     "f": 21,
+     "d": "altar-of-fangs"
+    },
+    {
+     "pk": "vviWp8V",
+     "t": "Skandar Tank - Altar of Fangs Rank 1 Route (+21 to +23, 0.1% Title Keys)",
+     "lm": 7,
+     "lx": 7,
+     "v": 2543,
+     "ve": 5,
+     "p": 1038,
+     "rt": null,
+     "rc": 0,
+     "a": "Skandar Tank",
+     "ap": "4zkdIZp",
+     "sx": 18,
+     "mv": 1085,
+     "mcp": false,
+     "pub": "world",
+     "kg": 182,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 4,
+     "f": 4,
+     "d": "altar-of-fangs"
+    },
+    {
+     "pk": "k38j49M",
+     "t": "Altar of Fangs 12+ Pug Friendly",
+     "lm": 12,
+     "lx": 18,
+     "v": 6139,
+     "ve": 4,
+     "p": 972,
+     "rt": null,
+     "rc": 0,
+     "a": "Crusciero#2689",
+     "ap": "aJktjMx",
+     "sx": 18,
+     "mv": 1085,
+     "mcp": false,
+     "pub": "world",
+     "kg": 182,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 5,
+     "f": 1,
      "d": "altar-of-fangs"
     },
     {
@@ -246,9 +224,9 @@
      "t": "Supers 12-20 VERSION 2 (better)",
      "lm": 11,
      "lx": 25,
-     "v": 2516,
+     "v": 2878,
      "ve": 4,
-     "p": 617,
+     "p": 691,
      "rt": null,
      "rc": 0,
      "a": "Supers",
@@ -280,7 +258,7 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 7,
+     "r": 6,
      "f": 1,
      "d": "altar-of-fangs"
     },
@@ -289,9 +267,9 @@
      "t": "elitzur_altar_2",
      "lm": 18,
      "lx": 22,
-     "v": 5319,
+     "v": 5462,
      "ve": 4,
-     "p": 393,
+     "p": 602,
      "rt": null,
      "rc": 0,
      "a": "elitzur",
@@ -323,8 +301,30 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 8,
+     "r": 7,
      "f": 4,
+     "d": "altar-of-fangs"
+    },
+    {
+     "pk": "AZqt8I5",
+     "t": "Supers 12-20",
+     "lm": 12,
+     "lx": 20,
+     "v": 6370,
+     "ve": 3,
+     "p": 572,
+     "rt": null,
+     "rc": 0,
+     "a": "Supers",
+     "ap": "24q2mKX",
+     "sx": 18,
+     "mv": 1085,
+     "mcp": false,
+     "pub": "world",
+     "kg": 182,
+     "af": [],
+     "r": 8,
+     "f": 0,
      "d": "altar-of-fangs"
     },
     {
@@ -332,9 +332,9 @@
      "t": "Altar of Fangs - Kladen",
      "lm": 17,
      "lx": 25,
-     "v": 499,
+     "v": 728,
      "ve": 3,
-     "p": 351,
+     "p": 491,
      "rt": null,
      "rc": 0,
      "a": "Kladen#2631",
@@ -375,9 +375,9 @@
      "t": "Nef's Simple PUG Route",
      "lm": 2,
      "lx": 13,
-     "v": 2101,
+     "v": 2234,
      "ve": 5,
-     "p": 324,
+     "p": 300,
      "rt": null,
      "rc": 0,
      "a": "Neflyn",
@@ -414,56 +414,13 @@
      "d": "altar-of-fangs"
     },
     {
-     "pk": "Rzg9wfQ",
-     "t": "AoF Easy Pug",
-     "lm": 16,
-     "lx": 25,
-     "v": 1100,
-     "ve": 3,
-     "p": 186,
-     "rt": null,
-     "rc": 0,
-     "a": "Flizzle#2220",
-     "ap": "8TGrqaD",
-     "sx": 18,
-     "mv": 1085,
-     "mcp": false,
-     "pub": "world",
-     "kg": 182,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 11,
-     "f": 0,
-     "d": "altar-of-fangs"
-    },
-    {
      "pk": "pCbwAbi",
      "t": "tired aof higher keys",
      "lm": 12,
      "lx": 25,
-     "v": 566,
+     "v": 632,
      "ve": 2,
-     "p": 180,
+     "p": 187,
      "rt": null,
      "rc": 0,
      "a": "raincheque",
@@ -495,8 +452,51 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 12,
+     "r": 11,
      "f": 1,
+     "d": "altar-of-fangs"
+    },
+    {
+     "pk": "Rzg9wfQ",
+     "t": "AoF Easy Pug",
+     "lm": 16,
+     "lx": 25,
+     "v": 1174,
+     "ve": 3,
+     "p": 176,
+     "rt": null,
+     "rc": 0,
+     "a": "Flizzle#2220",
+     "ap": "8TGrqaD",
+     "sx": 18,
+     "mv": 1085,
+     "mcp": false,
+     "pub": "world",
+     "kg": 182,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 12,
+     "f": 0,
      "d": "altar-of-fangs"
     },
     {
@@ -504,9 +504,9 @@
      "t": "Altar of Funnels",
      "lm": 20,
      "lx": 20,
-     "v": 353,
+     "v": 383,
      "ve": 3,
-     "p": 166,
+     "p": 150,
      "rt": null,
      "rc": 0,
      "a": "Henceforth",
@@ -543,99 +543,13 @@
      "d": "altar-of-fangs"
     },
     {
-     "pk": "rsafB18",
-     "t": "AOF Route",
-     "lm": 22,
-     "lx": 22,
-     "v": 688,
-     "ve": 4,
-     "p": 128,
-     "rt": null,
-     "rc": 0,
-     "a": "Zuzoku",
-     "ap": "BFcGdNO",
-     "sx": 18,
-     "mv": 1085,
-     "mcp": false,
-     "pub": "world",
-     "kg": 182,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 14,
-     "f": 1,
-     "d": "altar-of-fangs"
-    },
-    {
-     "pk": "yQPdMVx",
-     "t": "Laz AOF Main",
-     "lm": 20,
-     "lx": 25,
-     "v": 496,
-     "ve": 4,
-     "p": 118,
-     "rt": null,
-     "rc": 0,
-     "a": "lazarus114",
-     "ap": "7KAR7Rg",
-     "sx": 18,
-     "mv": 1085,
-     "mcp": false,
-     "pub": "world",
-     "kg": 182,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 15,
-     "f": 0,
-     "d": "altar-of-fangs"
-    },
-    {
      "pk": "WNf2Yo9",
      "t": "Itinéraire 3",
      "lm": 10,
      "lx": 10,
-     "v": 163,
+     "v": 216,
      "ve": 4,
-     "p": 111,
+     "p": 140,
      "rt": null,
      "rc": 0,
      "a": "amazone",
@@ -667,6 +581,92 @@
        "k": "Xal'atath's Guile"
       }
      ],
+     "r": 14,
+     "f": 0,
+     "d": "altar-of-fangs"
+    },
+    {
+     "pk": "rsafB18",
+     "t": "AOF Route",
+     "lm": 22,
+     "lx": 22,
+     "v": 738,
+     "ve": 4,
+     "p": 130,
+     "rt": null,
+     "rc": 0,
+     "a": "Zuzoku",
+     "ap": "BFcGdNO",
+     "sx": 18,
+     "mv": 1085,
+     "mcp": false,
+     "pub": "world",
+     "kg": 182,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 15,
+     "f": 1,
+     "d": "altar-of-fangs"
+    },
+    {
+     "pk": "yQPdMVx",
+     "t": "Laz AOF Main",
+     "lm": 20,
+     "lx": 25,
+     "v": 524,
+     "ve": 4,
+     "p": 102,
+     "rt": null,
+     "rc": 0,
+     "a": "lazarus114",
+     "ap": "7KAR7Rg",
+     "sx": 18,
+     "mv": 1085,
+     "mcp": false,
+     "pub": "world",
+     "kg": 182,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
      "r": 16,
      "f": 0,
      "d": "altar-of-fangs"
@@ -676,9 +676,9 @@
      "t": "Lupon - Nope Ropes",
      "lm": 14,
      "lx": 25,
-     "v": 884,
+     "v": 899,
      "ve": 3,
-     "p": 70,
+     "p": 64,
      "rt": null,
      "rc": 0,
      "a": "LuPoN#2289",
@@ -719,9 +719,9 @@
      "t": "Altar of Fangs",
      "lm": 2,
      "lx": 17,
-     "v": 108,
+     "v": 128,
      "ve": 3,
-     "p": 61,
+     "p": 62,
      "rt": null,
      "rc": 0,
      "a": "berzhus",
@@ -768,11 +768,11 @@
      "t": "Skandar Tank - Den of Nalorakk Season 2 (+10 to +15)",
      "lm": 8,
      "lx": 15,
-     "v": 178901,
+     "v": 180091,
      "ve": 15,
-     "p": 4006,
+     "p": 4915,
      "rt": 9.2,
-     "rc": 7,
+     "rc": 8,
      "a": "Skandar Tank",
      "ap": "4zkdIZp",
      "sx": 18,
@@ -807,99 +807,13 @@
      "d": "den-of-nalorakk"
     },
     {
-     "pk": "p1pibVU",
-     "t": "Den of Nalorakk 12+ Pug Friendly",
-     "lm": 12,
-     "lx": 18,
-     "v": 8662,
-     "ve": 3,
-     "p": 2190,
-     "rt": 8,
-     "rc": 1,
-     "a": "Crusciero#2689",
-     "ap": "aJktjMx",
-     "sx": 18,
-     "mv": 1517,
-     "mcp": false,
-     "pub": "world",
-     "kg": 140,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 2,
-     "f": 1,
-     "d": "den-of-nalorakk"
-    },
-    {
-     "pk": "n6TclXI",
-     "t": "Skandar Tank - Den of Nalorakk Rank 1 - (+21 to +23, 0.1% Title Keys)",
-     "lm": 8,
-     "lx": 8,
-     "v": 4264,
-     "ve": 3,
-     "p": 1916,
-     "rt": null,
-     "rc": 0,
-     "a": "Skandar Tank",
-     "ap": "4zkdIZp",
-     "sx": 18,
-     "mv": 1517,
-     "mcp": false,
-     "pub": "world",
-     "kg": 140,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 3,
-     "f": 6,
-     "d": "den-of-nalorakk"
-    },
-    {
      "pk": "iFVgZ7c",
      "t": "elitzur_den_1",
      "lm": 2,
      "lx": 17,
-     "v": 67045,
+     "v": 67479,
      "ve": 19,
-     "p": 1861,
+     "p": 2129,
      "rt": 9.6,
      "rc": 3,
      "a": "elitzur",
@@ -931,8 +845,94 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 4,
+     "r": 2,
      "f": 19,
+     "d": "den-of-nalorakk"
+    },
+    {
+     "pk": "p1pibVU",
+     "t": "Den of Nalorakk 12+ Pug Friendly",
+     "lm": 12,
+     "lx": 18,
+     "v": 9129,
+     "ve": 3,
+     "p": 2035,
+     "rt": 8,
+     "rc": 1,
+     "a": "Crusciero#2689",
+     "ap": "aJktjMx",
+     "sx": 18,
+     "mv": 1517,
+     "mcp": false,
+     "pub": "world",
+     "kg": 140,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 3,
+     "f": 1,
+     "d": "den-of-nalorakk"
+    },
+    {
+     "pk": "n6TclXI",
+     "t": "Skandar Tank - Den of Nalorakk Rank 1 - (+21 to +23, 0.1% Title Keys)",
+     "lm": 8,
+     "lx": 8,
+     "v": 4965,
+     "ve": 3,
+     "p": 1971,
+     "rt": null,
+     "rc": 0,
+     "a": "Skandar Tank",
+     "ap": "4zkdIZp",
+     "sx": 18,
+     "mv": 1517,
+     "mcp": false,
+     "pub": "world",
+     "kg": 140,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 4,
+     "f": 8,
      "d": "den-of-nalorakk"
     },
     {
@@ -940,9 +940,9 @@
      "t": "elitzur_den_2",
      "lm": 18,
      "lx": 22,
-     "v": 4575,
+     "v": 4904,
      "ve": 3,
-     "p": 1237,
+     "p": 1417,
      "rt": null,
      "rc": 0,
      "a": "elitzur",
@@ -983,9 +983,9 @@
      "t": "<Naowh> Pug Route",
      "lm": 18,
      "lx": 18,
-     "v": 832,
-     "ve": 2,
-     "p": 674,
+     "v": 1349,
+     "ve": 3,
+     "p": 986,
      "rt": null,
      "rc": 0,
      "a": "James Kirsch",
@@ -1022,13 +1022,56 @@
      "d": "den-of-nalorakk"
     },
     {
+     "pk": "hbbznKM",
+     "t": "elitzur_den_4",
+     "lm": 19,
+     "lx": 25,
+     "v": 1757,
+     "ve": 3,
+     "p": 700,
+     "rt": null,
+     "rc": 0,
+     "a": "elitzur",
+     "ap": "Nr0x65H",
+     "sx": 18,
+     "mv": 1517,
+     "mcp": false,
+     "pub": "world",
+     "kg": 140,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 7,
+     "f": 1,
+     "d": "den-of-nalorakk"
+    },
+    {
      "pk": "zJvNE2l",
      "t": "Primal Den - Wolf",
      "lm": 2,
      "lx": 15,
-     "v": 2537,
+     "v": 2673,
      "ve": 6,
-     "p": 618,
+     "p": 557,
      "rt": null,
      "rc": 0,
      "a": "xWolfey",
@@ -1060,93 +1103,7 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 7,
-     "f": 0,
-     "d": "den-of-nalorakk"
-    },
-    {
-     "pk": "hbbznKM",
-     "t": "elitzur_den_4",
-     "lm": 19,
-     "lx": 25,
-     "v": 1601,
-     "ve": 3,
-     "p": 597,
-     "rt": null,
-     "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
-     "sx": 18,
-     "mv": 1517,
-     "mcp": false,
-     "pub": "world",
-     "kg": 140,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
      "r": 8,
-     "f": 1,
-     "d": "den-of-nalorakk"
-    },
-    {
-     "pk": "IjOdUUG",
-     "t": "Den of Nalorakk",
-     "lm": 2,
-     "lx": 25,
-     "v": 901,
-     "ve": 3,
-     "p": 380,
-     "rt": null,
-     "rc": 0,
-     "a": "Exaft",
-     "ap": "8StQtsf",
-     "sx": 18,
-     "mv": 1517,
-     "mcp": false,
-     "pub": "world",
-     "kg": 140,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 9,
      "f": 0,
      "d": "den-of-nalorakk"
     },
@@ -1155,9 +1112,9 @@
      "t": "Den of Nalorakk",
      "lm": 15,
      "lx": 25,
-     "v": 445,
+     "v": 610,
      "ve": 4,
-     "p": 311,
+     "p": 385,
      "rt": null,
      "rc": 0,
      "a": "Nekrow",
@@ -1189,65 +1146,22 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 10,
+     "r": 9,
      "f": 1,
      "d": "den-of-nalorakk"
     },
     {
-     "pk": "eoNHMah",
-     "t": "elitzur_den_3",
-     "lm": 20,
-     "lx": 22,
-     "v": 1279,
-     "ve": 2,
-     "p": 231,
+     "pk": "IjOdUUG",
+     "t": "Den of Nalorakk",
+     "lm": 2,
+     "lx": 25,
+     "v": 980,
+     "ve": 3,
+     "p": 334,
      "rt": null,
      "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
-     "sx": 18,
-     "mv": 1517,
-     "mcp": false,
-     "pub": "world",
-     "kg": 140,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 11,
-     "f": 1,
-     "d": "den-of-nalorakk"
-    },
-    {
-     "pk": "lTJvItG",
-     "t": "Goldïgger Tank - DoN - R1",
-     "lm": 14,
-     "lx": 19,
-     "v": 300,
-     "ve": 4,
-     "p": 220,
-     "rt": null,
-     "rc": 0,
-     "a": "Goldi",
-     "ap": "Drj3OVR",
+     "a": "Exaft",
+     "ap": "8StQtsf",
      "sx": 18,
      "mv": 1517,
      "mcp": false,
@@ -1275,50 +1189,7 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 12,
-     "f": 0,
-     "d": "den-of-nalorakk"
-    },
-    {
-     "pk": "2u54sRd",
-     "t": "Everyone asks \"link route\" but noone asks \"tank how are you today",
-     "lm": 21,
-     "lx": 21,
-     "v": 171,
-     "ve": 2,
-     "p": 157,
-     "rt": null,
-     "rc": 0,
-     "a": "ticcyhk",
-     "ap": "sN2komr",
-     "sx": 18,
-     "mv": 1517,
-     "mcp": false,
-     "pub": "world",
-     "kg": 140,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 158,
-       "k": "Xal'atath's Bargain: Voidbound"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 13,
+     "r": 10,
      "f": 0,
      "d": "den-of-nalorakk"
     },
@@ -1327,9 +1198,9 @@
      "t": "Base Pug",
      "lm": 15,
      "lx": 25,
-     "v": 168,
+     "v": 313,
      "ve": 3,
-     "p": 148,
+     "p": 255,
      "rt": null,
      "rc": 0,
      "a": "Forgöth#2852",
@@ -1361,24 +1232,24 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 14,
+     "r": 11,
      "f": 1,
      "d": "den-of-nalorakk"
     },
     {
-     "pk": "c4EwOOR",
-     "t": "Supers 12-20",
-     "lm": 12,
-     "lx": 25,
-     "v": 5862,
-     "ve": 5,
-     "p": 124,
+     "pk": "eoNHMah",
+     "t": "elitzur_den_3",
+     "lm": 20,
+     "lx": 22,
+     "v": 1335,
+     "ve": 2,
+     "p": 239,
      "rt": null,
      "rc": 0,
-     "a": "Supers",
-     "ap": "24q2mKX",
+     "a": "elitzur",
+     "ap": "Nr0x65H",
      "sx": 18,
-     "mv": 1090,
+     "mv": 1517,
      "mcp": false,
      "pub": "world",
      "kg": 140,
@@ -1396,16 +1267,102 @@
        "k": "Tyrannical"
       },
       {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
       },
       {
        "i": 147,
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 15,
-     "f": 6,
+     "r": 12,
+     "f": 1,
+     "d": "den-of-nalorakk"
+    },
+    {
+     "pk": "lTJvItG",
+     "t": "Goldïgger Tank - DoN - R1",
+     "lm": 14,
+     "lx": 19,
+     "v": 377,
+     "ve": 4,
+     "p": 232,
+     "rt": null,
+     "rc": 0,
+     "a": "Goldi",
+     "ap": "Drj3OVR",
+     "sx": 18,
+     "mv": 1517,
+     "mcp": false,
+     "pub": "world",
+     "kg": 140,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 13,
+     "f": 0,
+     "d": "den-of-nalorakk"
+    },
+    {
+     "pk": "2u54sRd",
+     "t": "Everyone asks \"link route\" but noone asks \"tank how are you today",
+     "lm": 21,
+     "lx": 21,
+     "v": 247,
+     "ve": 4,
+     "p": 211,
+     "rt": null,
+     "rc": 0,
+     "a": "ticcyhk",
+     "ap": "sN2komr",
+     "sx": 18,
+     "mv": 1517,
+     "mcp": false,
+     "pub": "world",
+     "kg": 140,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 14,
+     "f": 0,
      "d": "den-of-nalorakk"
     },
     {
@@ -1413,9 +1370,9 @@
      "t": "skibidi den",
      "lm": 2,
      "lx": 25,
-     "v": 146,
+     "v": 168,
      "ve": 7,
-     "p": 106,
+     "p": 111,
      "rt": null,
      "rc": 0,
      "a": "Almas#21158",
@@ -1447,7 +1404,7 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 16,
+     "r": 15,
      "f": 0,
      "d": "den-of-nalorakk"
     },
@@ -1456,9 +1413,9 @@
      "t": "Antre de Nalorakk - Avancé - Carpette Diem",
      "lm": 11,
      "lx": 15,
-     "v": 8592,
+     "v": 8652,
      "ve": 4,
-     "p": 88,
+     "p": 107,
      "rt": null,
      "rc": 0,
      "a": "Zoma_Ancestral",
@@ -1490,24 +1447,24 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 17,
+     "r": 16,
      "f": 5,
      "d": "den-of-nalorakk"
     },
     {
-     "pk": "NnMhKua",
-     "t": "Skandar Tank - Den of Nalorakk Season 2 - Higher Keys (+16 to +19)",
-     "lm": 8,
-     "lx": 8,
-     "v": 24189,
-     "ve": 7,
-     "p": 85,
+     "pk": "c4EwOOR",
+     "t": "Supers 12-20",
+     "lm": 12,
+     "lx": 25,
+     "v": 5992,
+     "ve": 5,
+     "p": 105,
      "rt": null,
      "rc": 0,
-     "a": "Skandar Tank",
-     "ap": "4zkdIZp",
+     "a": "Supers",
+     "ap": "24q2mKX",
      "sx": 18,
-     "mv": 1044,
+     "mv": 1090,
      "mcp": false,
      "pub": "world",
      "kg": 140,
@@ -1533,8 +1490,51 @@
        "k": "Xal'atath's Guile"
       }
      ],
+     "r": 17,
+     "f": 6,
+     "d": "den-of-nalorakk"
+    },
+    {
+     "pk": "5sowXIU",
+     "t": "Easy Den Pug",
+     "lm": 2,
+     "lx": 22,
+     "v": 101,
+     "ve": 1,
+     "p": 94,
+     "rt": null,
+     "rc": 0,
+     "a": "Flizzle#2220",
+     "ap": "8TGrqaD",
+     "sx": 18,
+     "mv": 1517,
+     "mcp": false,
+     "pub": "world",
+     "kg": 140,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
      "r": 18,
-     "f": 22,
+     "f": 0,
      "d": "den-of-nalorakk"
     }
    ]
@@ -1548,11 +1548,11 @@
      "t": "Skandar Tank - Murder Row Season 2 (+10 to +15)",
      "lm": 8,
      "lx": 15,
-     "v": 136914,
-     "ve": 31,
-     "p": 3158,
-     "rt": 10,
-     "rc": 8,
+     "v": 137816,
+     "ve": 32,
+     "p": 3786,
+     "rt": 9.8,
+     "rc": 9,
      "a": "Skandar Tank",
      "ap": "4zkdIZp",
      "sx": 18,
@@ -1591,9 +1591,9 @@
      "t": "Skandar Tank - Murder Row Season 2 (HIGHER KEYS +16 to +19)",
      "lm": 8,
      "lx": 8,
-     "v": 21783,
-     "ve": 11,
-     "p": 2366,
+     "v": 22426,
+     "ve": 13,
+     "p": 2214,
      "rt": null,
      "rc": 0,
      "a": "Skandar Tank",
@@ -1626,50 +1626,7 @@
       }
      ],
      "r": 2,
-     "f": 15,
-     "d": "murder-row"
-    },
-    {
-     "pk": "SPg4fUB",
-     "t": "Murder Row 12+ Pug Friendly",
-     "lm": 12,
-     "lx": 18,
-     "v": 4110,
-     "ve": 6,
-     "p": 1380,
-     "rt": null,
-     "rc": 0,
-     "a": "Crusciero#2689",
-     "ap": "aJktjMx",
-     "sx": 18,
-     "mv": 1518,
-     "mcp": false,
-     "pub": "world",
-     "kg": 143,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 3,
-     "f": 3,
+     "f": 14,
      "d": "murder-row"
     },
     {
@@ -1677,9 +1634,9 @@
      "t": "elitzur_mr_1",
      "lm": 2,
      "lx": 17,
-     "v": 44980,
+     "v": 45314,
      "ve": 30,
-     "p": 1376,
+     "p": 1399,
      "rt": 7,
      "rc": 3,
      "a": "elitzur",
@@ -1711,8 +1668,51 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 4,
+     "r": 3,
      "f": 15,
+     "d": "murder-row"
+    },
+    {
+     "pk": "SPg4fUB",
+     "t": "Murder Row 12+ Pug Friendly",
+     "lm": 12,
+     "lx": 18,
+     "v": 4529,
+     "ve": 6,
+     "p": 1363,
+     "rt": null,
+     "rc": 0,
+     "a": "Crusciero#2689",
+     "ap": "aJktjMx",
+     "sx": 18,
+     "mv": 1518,
+     "mcp": false,
+     "pub": "world",
+     "kg": 143,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 4,
+     "f": 3,
      "d": "murder-row"
     },
     {
@@ -1720,9 +1720,9 @@
      "t": "Skandar Tank - Murder Row Rank 1 Route (+21 to +23, 01% Title Keys)",
      "lm": 8,
      "lx": 8,
-     "v": 2929,
+     "v": 3376,
      "ve": 4,
-     "p": 1202,
+     "p": 1274,
      "rt": null,
      "rc": 0,
      "a": "Skandar Tank",
@@ -1763,9 +1763,9 @@
      "t": "Murder Row - Yogi 20+",
      "lm": 2,
      "lx": 25,
-     "v": 1098,
+     "v": 1337,
      "ve": 6,
-     "p": 848,
+     "p": 835,
      "rt": null,
      "rc": 0,
      "a": "Nibble42069",
@@ -1806,9 +1806,9 @@
      "t": "Murder Row - Kladen",
      "lm": 16,
      "lx": 25,
-     "v": 3139,
+     "v": 3308,
      "ve": 7,
-     "p": 629,
+     "p": 548,
      "rt": null,
      "rc": 0,
      "a": "Kladen#2631",
@@ -1845,56 +1845,13 @@
      "d": "murder-row"
     },
     {
-     "pk": "lAj6jkf",
-     "t": "elitzur_mr_3",
-     "lm": 19,
-     "lx": 25,
-     "v": 1478,
-     "ve": 4,
-     "p": 348,
-     "rt": null,
-     "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
-     "sx": 18,
-     "mv": 1518,
-     "mcp": false,
-     "pub": "world",
-     "kg": 143,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 8,
-     "f": 2,
-     "d": "murder-row"
-    },
-    {
      "pk": "CFUnKYo",
      "t": "Allée du meurtre - Facile - Carpette Diem",
      "lm": 2,
      "lx": 10,
-     "v": 4054,
+     "v": 4221,
      "ve": 5,
-     "p": 292,
+     "p": 374,
      "rt": null,
      "rc": 0,
      "a": "Zoma_Ancestral",
@@ -1926,8 +1883,51 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 9,
+     "r": 8,
      "f": 5,
+     "d": "murder-row"
+    },
+    {
+     "pk": "lAj6jkf",
+     "t": "elitzur_mr_3",
+     "lm": 19,
+     "lx": 25,
+     "v": 1561,
+     "ve": 4,
+     "p": 350,
+     "rt": null,
+     "rc": 0,
+     "a": "elitzur",
+     "ap": "Nr0x65H",
+     "sx": 18,
+     "mv": 1518,
+     "mcp": false,
+     "pub": "world",
+     "kg": 143,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 9,
+     "f": 2,
      "d": "murder-row"
     },
     {
@@ -1935,9 +1935,9 @@
      "t": "Highkey Route MR",
      "lm": 17,
      "lx": 17,
-     "v": 233,
-     "ve": 3,
-     "p": 211,
+     "v": 328,
+     "ve": 4,
+     "p": 272,
      "rt": null,
      "rc": 0,
      "a": "Cooper#22242",
@@ -1974,142 +1974,13 @@
      "d": "murder-row"
     },
     {
-     "pk": "cpAomJu",
-     "t": "elitzur_mr_2",
-     "lm": 18,
-     "lx": 22,
-     "v": 414,
-     "ve": 2,
-     "p": 175,
-     "rt": null,
-     "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
-     "sx": 18,
-     "mv": 1518,
-     "mcp": false,
-     "pub": "world",
-     "kg": 143,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 158,
-       "k": "Xal'atath's Bargain: Voidbound"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 11,
-     "f": 1,
-     "d": "murder-row"
-    },
-    {
-     "pk": "uUxVaXa",
-     "t": "None of this weird never works with pugs skip before last boss",
-     "lm": 2,
-     "lx": 25,
-     "v": 182,
-     "ve": 1,
-     "p": 135,
-     "rt": null,
-     "rc": 0,
-     "a": "Johnny G",
-     "ap": "NMGkHkk",
-     "sx": 18,
-     "mv": 1518,
-     "mcp": false,
-     "pub": "world",
-     "kg": 143,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 12,
-     "f": 0,
-     "d": "murder-row"
-    },
-    {
-     "pk": "0XWsCXw",
-     "t": "54 shades of imps :3",
-     "lm": 20,
-     "lx": 20,
-     "v": 142,
-     "ve": 4,
-     "p": 131,
-     "rt": null,
-     "rc": 0,
-     "a": "ticcyhk",
-     "ap": "sN2komr",
-     "sx": 18,
-     "mv": 1518,
-     "mcp": false,
-     "pub": "world",
-     "kg": 143,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 158,
-       "k": "Xal'atath's Bargain: Voidbound"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 13,
-     "f": 0,
-     "d": "murder-row"
-    },
-    {
      "pk": "DtKp8jb",
      "t": "Mal's Easy Row of Murder",
      "lm": 15,
      "lx": 25,
-     "v": 129,
+     "v": 231,
      "ve": 1,
-     "p": 126,
+     "p": 220,
      "rt": null,
      "rc": 0,
      "a": "Malleus",
@@ -2141,7 +2012,93 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 14,
+     "r": 11,
+     "f": 0,
+     "d": "murder-row"
+    },
+    {
+     "pk": "cpAomJu",
+     "t": "elitzur_mr_2",
+     "lm": 18,
+     "lx": 22,
+     "v": 449,
+     "ve": 2,
+     "p": 199,
+     "rt": null,
+     "rc": 0,
+     "a": "elitzur",
+     "ap": "Nr0x65H",
+     "sx": 18,
+     "mv": 1518,
+     "mcp": false,
+     "pub": "world",
+     "kg": 143,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 12,
+     "f": 1,
+     "d": "murder-row"
+    },
+    {
+     "pk": "uUxVaXa",
+     "t": "None of this weird never works with pugs skip before last boss",
+     "lm": 2,
+     "lx": 25,
+     "v": 247,
+     "ve": 1,
+     "p": 176,
+     "rt": null,
+     "rc": 0,
+     "a": "Johnny G",
+     "ap": "NMGkHkk",
+     "sx": 18,
+     "mv": 1518,
+     "mcp": false,
+     "pub": "world",
+     "kg": 143,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 13,
      "f": 0,
      "d": "murder-row"
     },
@@ -2150,9 +2107,9 @@
      "t": "Batzzu 14+ MR",
      "lm": 14,
      "lx": 25,
-     "v": 358,
+     "v": 437,
      "ve": 2,
-     "p": 99,
+     "p": 146,
      "rt": null,
      "rc": 0,
      "a": "batzzu",
@@ -2184,22 +2141,22 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 15,
+     "r": 14,
      "f": 1,
      "d": "murder-row"
     },
     {
-     "pk": "3O3ERTz",
-     "t": "Murder Row",
-     "lm": 2,
-     "lx": 25,
-     "v": 144,
+     "pk": "0XWsCXw",
+     "t": "54 shades of imps :3",
+     "lm": 20,
+     "lx": 20,
+     "v": 169,
      "ve": 4,
-     "p": 91,
+     "p": 136,
      "rt": null,
      "rc": 0,
-     "a": "Zalndraeda",
-     "ap": "XFMUAL6",
+     "a": "ticcyhk",
+     "ap": "sN2komr",
      "sx": 18,
      "mv": 1518,
      "mcp": false,
@@ -2219,58 +2176,15 @@
        "k": "Fortified"
       },
       {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
       },
       {
        "i": 147,
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 16,
-     "f": 0,
-     "d": "murder-row"
-    },
-    {
-     "pk": "2pgl0O0",
-     "t": "Captain route",
-     "lm": 2,
-     "lx": 25,
-     "v": 123,
-     "ve": 2,
-     "p": 86,
-     "rt": null,
-     "rc": 0,
-     "a": "RobityBobity#2519",
-     "ap": "jiOCvB0",
-     "sx": 18,
-     "mv": 1518,
-     "mcp": false,
-     "pub": "world",
-     "kg": 143,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 17,
+     "r": 15,
      "f": 0,
      "d": "murder-row"
     },
@@ -2279,9 +2193,9 @@
      "t": "cherry route",
      "lm": 25,
      "lx": 25,
-     "v": 78,
-     "ve": 0,
-     "p": 74,
+     "v": 105,
+     "ve": 3,
+     "p": 99,
      "rt": null,
      "rc": 0,
      "a": "i_live_for_cherry_420Xx",
@@ -2313,6 +2227,92 @@
        "k": "Xal'atath's Guile"
       }
      ],
+     "r": 16,
+     "f": 0,
+     "d": "murder-row"
+    },
+    {
+     "pk": "lx2p7Cr",
+     "t": "Armpit Fetish - The Scenic Route",
+     "lm": 18,
+     "lx": 25,
+     "v": 104,
+     "ve": 1,
+     "p": 95,
+     "rt": null,
+     "rc": 0,
+     "a": "Lamp",
+     "ap": "vUGHavG",
+     "sx": 18,
+     "mv": 1518,
+     "mcp": false,
+     "pub": "world",
+     "kg": 143,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 17,
+     "f": 0,
+     "d": "murder-row"
+    },
+    {
+     "pk": "3O3ERTz",
+     "t": "Murder Row",
+     "lm": 2,
+     "lx": 25,
+     "v": 164,
+     "ve": 4,
+     "p": 77,
+     "rt": null,
+     "rc": 0,
+     "a": "Zalndraeda",
+     "ap": "XFMUAL6",
+     "sx": 18,
+     "mv": 1518,
+     "mcp": false,
+     "pub": "world",
+     "kg": 143,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
      "r": 18,
      "f": 0,
      "d": "murder-row"
@@ -2328,11 +2328,11 @@
      "t": "Skandar Tank - Blinding Vale Season 2 (+10 to +15)",
      "lm": 8,
      "lx": 15,
-     "v": 176081,
+     "v": 176958,
      "ve": 24,
-     "p": 2560,
-     "rt": 6.9,
-     "rc": 10,
+     "p": 3969,
+     "rt": 7,
+     "rc": 11,
      "a": "Skandar Tank",
      "ap": "4zkdIZp",
      "sx": 18,
@@ -2371,9 +2371,9 @@
      "t": "Skandar Tank - Blinding Vale Rank 1 (+21 to +23, 0.1% Title Keys)",
      "lm": 8,
      "lx": 8,
-     "v": 1843,
+     "v": 2250,
      "ve": 4,
-     "p": 962,
+     "p": 1330,
      "rt": null,
      "rc": 0,
      "a": "Skandar Tank",
@@ -2410,17 +2410,17 @@
      "d": "the-blinding-vale"
     },
     {
-     "pk": "3x3bDP3",
-     "t": "Supers 12-20",
-     "lm": 12,
-     "lx": 20,
-     "v": 12049,
-     "ve": 3,
-     "p": 957,
+     "pk": "PrDPs6l",
+     "t": "elitzur_vale_2",
+     "lm": 18,
+     "lx": 22,
+     "v": 58440,
+     "ve": 23,
+     "p": 1097,
      "rt": null,
      "rc": 0,
-     "a": "Supers",
-     "ap": "24q2mKX",
+     "a": "elitzur",
+     "ap": "Nr0x65H",
      "sx": 18,
      "mv": 1074,
      "mcp": false,
@@ -2440,8 +2440,8 @@
        "k": "Fortified"
       },
       {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
       },
       {
        "i": 147,
@@ -2449,7 +2449,7 @@
       }
      ],
      "r": 3,
-     "f": 6,
+     "f": 17,
      "d": "the-blinding-vale"
     },
     {
@@ -2457,9 +2457,9 @@
      "t": "Skandar Tank - Blinding Vale Season 2 (Higher Keys +17 to +20)",
      "lm": 8,
      "lx": 8,
-     "v": 23071,
+     "v": 23835,
      "ve": 9,
-     "p": 939,
+     "p": 921,
      "rt": 10,
      "rc": 1,
      "a": "Skandar Tank",
@@ -2492,21 +2492,21 @@
       }
      ],
      "r": 4,
-     "f": 17,
+     "f": 15,
      "d": "the-blinding-vale"
     },
     {
-     "pk": "0FcHOu7",
-     "t": "The Blinding Vale - Yoda 20 route",
-     "lm": 17,
-     "lx": 25,
-     "v": 7275,
-     "ve": 3,
-     "p": 748,
+     "pk": "3x3bDP3",
+     "t": "Supers 12-20",
+     "lm": 12,
+     "lx": 20,
+     "v": 12508,
+     "ve": 4,
+     "p": 900,
      "rt": null,
      "rc": 0,
-     "a": "Nibble42069",
-     "ap": "YrnmhVi",
+     "a": "Supers",
+     "ap": "24q2mKX",
      "sx": 18,
      "mv": 1074,
      "mcp": false,
@@ -2526,8 +2526,8 @@
        "k": "Fortified"
       },
       {
-       "i": 158,
-       "k": "Xal'atath's Bargain: Voidbound"
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
       },
       {
        "i": 147,
@@ -2535,93 +2535,7 @@
       }
      ],
      "r": 5,
-     "f": 1,
-     "d": "the-blinding-vale"
-    },
-    {
-     "pk": "PrDPs6l",
-     "t": "elitzur_vale_2",
-     "lm": 18,
-     "lx": 22,
-     "v": 58170,
-     "ve": 23,
-     "p": 432,
-     "rt": null,
-     "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
-     "sx": 18,
-     "mv": 1074,
-     "mcp": false,
-     "pub": "world",
-     "kg": 145,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 158,
-       "k": "Xal'atath's Bargain: Voidbound"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 6,
-     "f": 17,
-     "d": "the-blinding-vale"
-    },
-    {
-     "pk": "JRMtvAW",
-     "t": "BV-HIGH KEYS",
-     "lm": 18,
-     "lx": 25,
-     "v": 1511,
-     "ve": 4,
-     "p": 340,
-     "rt": null,
-     "rc": 0,
-     "a": "DINERO",
-     "ap": "tAxmUXj",
-     "sx": 18,
-     "mv": 1074,
-     "mcp": false,
-     "pub": "world",
-     "kg": 145,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 7,
-     "f": 0,
+     "f": 6,
      "d": "the-blinding-vale"
     },
     {
@@ -2629,9 +2543,9 @@
      "t": "elitzur_vale_1",
      "lm": 2,
      "lx": 17,
-     "v": 27016,
+     "v": 27191,
      "ve": 11,
-     "p": 278,
+     "p": 780,
      "rt": null,
      "rc": 0,
      "a": "elitzur",
@@ -2663,8 +2577,94 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 8,
+     "r": 6,
      "f": 10,
+     "d": "the-blinding-vale"
+    },
+    {
+     "pk": "0FcHOu7",
+     "t": "The Blinding Vale - Yoda 20 route",
+     "lm": 17,
+     "lx": 25,
+     "v": 7623,
+     "ve": 5,
+     "p": 636,
+     "rt": null,
+     "rc": 0,
+     "a": "Nibble42069",
+     "ap": "YrnmhVi",
+     "sx": 18,
+     "mv": 1074,
+     "mcp": false,
+     "pub": "world",
+     "kg": 145,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 7,
+     "f": 1,
+     "d": "the-blinding-vale"
+    },
+    {
+     "pk": "JRMtvAW",
+     "t": "BV-HIGH KEYS",
+     "lm": 18,
+     "lx": 25,
+     "v": 1652,
+     "ve": 4,
+     "p": 323,
+     "rt": null,
+     "rc": 0,
+     "a": "DINERO",
+     "ap": "tAxmUXj",
+     "sx": 18,
+     "mv": 1074,
+     "mcp": false,
+     "pub": "world",
+     "kg": 145,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 8,
+     "f": 0,
      "d": "the-blinding-vale"
     },
     {
@@ -2672,9 +2672,9 @@
      "t": "Pookies 12-18",
      "lm": 19,
      "lx": 19,
-     "v": 2404,
+     "v": 2537,
      "ve": 4,
-     "p": 258,
+     "p": 249,
      "rt": null,
      "rc": 0,
      "a": "Stabemz04",
@@ -2711,56 +2711,13 @@
      "d": "the-blinding-vale"
     },
     {
-     "pk": "itN6bRr",
-     "t": "Le Val Aveuglant - Facile No skip - Carpette Diem",
-     "lm": 2,
-     "lx": 10,
-     "v": 4489,
-     "ve": 4,
-     "p": 238,
-     "rt": null,
-     "rc": 0,
-     "a": "Zoma_Ancestral",
-     "ap": "4zmPlJY",
-     "sx": 18,
-     "mv": 1074,
-     "mcp": false,
-     "pub": "world",
-     "kg": 145,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 10,
-     "f": 2,
-     "d": "the-blinding-vale"
-    },
-    {
      "pk": "AHvjg0R",
      "t": "The Blinding Vale (Left)",
      "lm": 2,
      "lx": 25,
-     "v": 9742,
+     "v": 9830,
      "ve": 4,
-     "p": 229,
+     "p": 239,
      "rt": null,
      "rc": 0,
      "a": "frznfries",
@@ -2792,8 +2749,51 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 11,
+     "r": 10,
      "f": 7,
+     "d": "the-blinding-vale"
+    },
+    {
+     "pk": "itN6bRr",
+     "t": "Le Val Aveuglant - Facile No skip - Carpette Diem",
+     "lm": 2,
+     "lx": 10,
+     "v": 4553,
+     "ve": 4,
+     "p": 223,
+     "rt": null,
+     "rc": 0,
+     "a": "Zoma_Ancestral",
+     "ap": "4zmPlJY",
+     "sx": 18,
+     "mv": 1074,
+     "mcp": false,
+     "pub": "world",
+     "kg": 145,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 11,
+     "f": 2,
      "d": "the-blinding-vale"
     },
     {
@@ -2801,9 +2801,9 @@
      "t": "Blinding Vale",
      "lm": 10,
      "lx": 10,
-     "v": 339,
+     "v": 435,
      "ve": 1,
-     "p": 184,
+     "p": 221,
      "rt": null,
      "rc": 0,
      "a": "vert",
@@ -2840,17 +2840,17 @@
      "d": "the-blinding-vale"
     },
     {
-     "pk": "g46xm62",
-     "t": "Warden-Area52 Route BV v2.6 (17+)",
-     "lm": 16,
-     "lx": 19,
-     "v": 952,
-     "ve": 2,
-     "p": 129,
+     "pk": "xztMJ1x",
+     "t": "elitzur_vale_4",
+     "lm": 19,
+     "lx": 25,
+     "v": 1035,
+     "ve": 3,
+     "p": 168,
      "rt": null,
      "rc": 0,
-     "a": "Chuck221",
-     "ap": "Nd8cbvD",
+     "a": "elitzur",
+     "ap": "Nr0x65H",
      "sx": 18,
      "mv": 1074,
      "mcp": false,
@@ -2862,16 +2862,16 @@
        "k": "Lindormi's Guidance"
       },
       {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
        "i": 10,
        "k": "Fortified"
       },
       {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
       },
       {
        "i": 147,
@@ -2883,17 +2883,17 @@
      "d": "the-blinding-vale"
     },
     {
-     "pk": "GIdlqfg",
-     "t": "BV by Vonfu - Competitive Casual",
+     "pk": "J8iA6MO",
+     "t": "The Blinding Vale - CHILL",
      "lm": 2,
-     "lx": 25,
-     "v": 153,
-     "ve": 1,
-     "p": 100,
+     "lx": 18,
+     "v": 195,
+     "ve": 4,
+     "p": 139,
      "rt": null,
      "rc": 0,
-     "a": "Lars van Son",
-     "ap": "CI1yXpB",
+     "a": "zantman",
+     "ap": "LhuMtcO",
      "sx": 18,
      "mv": 1074,
      "mcp": false,
@@ -2905,16 +2905,16 @@
        "k": "Lindormi's Guidance"
       },
       {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
        "i": 9,
        "k": "Tyrannical"
       },
       {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
       },
       {
        "i": 147,
@@ -2922,7 +2922,7 @@
       }
      ],
      "r": 14,
-     "f": 1,
+     "f": 0,
      "d": "the-blinding-vale"
     },
     {
@@ -2930,9 +2930,9 @@
      "t": "Le Val Aveuglant - Avancé - Carpette Diem",
      "lm": 11,
      "lx": 15,
-     "v": 2087,
+     "v": 2146,
      "ve": 2,
-     "p": 92,
+     "p": 129,
      "rt": null,
      "rc": 0,
      "a": "Zoma_Ancestral",
@@ -2969,17 +2969,60 @@
      "d": "the-blinding-vale"
     },
     {
-     "pk": "xztMJ1x",
-     "t": "elitzur_vale_4",
-     "lm": 19,
-     "lx": 25,
-     "v": 972,
-     "ve": 3,
-     "p": 90,
+     "pk": "g46xm62",
+     "t": "Warden-Area52 Route BV v2.6 (17+)",
+     "lm": 16,
+     "lx": 19,
+     "v": 1015,
+     "ve": 2,
+     "p": 105,
      "rt": null,
      "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
+     "a": "Chuck221",
+     "ap": "Nd8cbvD",
+     "sx": 18,
+     "mv": 1074,
+     "mcp": false,
+     "pub": "world",
+     "kg": 145,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 16,
+     "f": 2,
+     "d": "the-blinding-vale"
+    },
+    {
+     "pk": "GIdlqfg",
+     "t": "BV by Vonfu - Competitive Casual",
+     "lm": 2,
+     "lx": 25,
+     "v": 177,
+     "ve": 1,
+     "p": 105,
+     "rt": null,
+     "rc": 0,
+     "a": "Lars van Son",
+     "ap": "CI1yXpB",
      "sx": 18,
      "mv": 1074,
      "mcp": false,
@@ -2999,16 +3042,16 @@
        "k": "Tyrannical"
       },
       {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
       },
       {
        "i": 147,
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 16,
-     "f": 2,
+     "r": 17,
+     "f": 1,
      "d": "the-blinding-vale"
     },
     {
@@ -3016,9 +3059,9 @@
      "t": "The Blinding Vale",
      "lm": 12,
      "lx": 25,
-     "v": 735,
+     "v": 763,
      "ve": 1,
-     "p": 81,
+     "p": 71,
      "rt": null,
      "rc": 0,
      "a": "DizcoDuck#11143",
@@ -3050,49 +3093,6 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 17,
-     "f": 0,
-     "d": "the-blinding-vale"
-    },
-    {
-     "pk": "J8iA6MO",
-     "t": "The Blinding Vale - CHILL",
-     "lm": 2,
-     "lx": 18,
-     "v": 94,
-     "ve": 4,
-     "p": 69,
-     "rt": null,
-     "rc": 0,
-     "a": "zantman",
-     "ap": "LhuMtcO",
-     "sx": 18,
-     "mv": 1074,
-     "mcp": false,
-     "pub": "world",
-     "kg": 145,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
      "r": 18,
      "f": 0,
      "d": "the-blinding-vale"
@@ -3108,11 +3108,11 @@
      "t": "Skandar Tank - Voidscar Arena Heigher Keys (+17 to +20)",
      "lm": 2,
      "lx": 2,
-     "v": 22715,
+     "v": 23681,
      "ve": 9,
-     "p": 2748,
-     "rt": null,
-     "rc": 0,
+     "p": 4173,
+     "rt": 9,
+     "rc": 1,
      "a": "Skandar Tank",
      "ap": "4zkdIZp",
      "sx": 18,
@@ -3147,17 +3147,17 @@
      "d": "voidscar-arena"
     },
     {
-     "pk": "QSVb0lI",
-     "t": "Supers 12-20",
-     "lm": 12,
-     "lx": 20,
-     "v": 4889,
-     "ve": 4,
-     "p": 1151,
-     "rt": null,
-     "rc": 0,
-     "a": "Supers",
-     "ap": "24q2mKX",
+     "pk": "79VBIKs",
+     "t": "elitzur_voidscar_1",
+     "lm": 2,
+     "lx": 17,
+     "v": 38764,
+     "ve": 33,
+     "p": 1501,
+     "rt": 6,
+     "rc": 1,
+     "a": "elitzur",
+     "ap": "Nr0x65H",
      "sx": 18,
      "mv": 1087,
      "mcp": false,
@@ -3169,16 +3169,16 @@
        "k": "Lindormi's Guidance"
       },
       {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
        "i": 9,
        "k": "Tyrannical"
       },
       {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
       },
       {
        "i": 147,
@@ -3186,21 +3186,21 @@
       }
      ],
      "r": 2,
-     "f": 2,
+     "f": 14,
      "d": "voidscar-arena"
     },
     {
-     "pk": "SZXM6yq",
-     "t": "Voidscar Arena - Kladen",
-     "lm": 16,
-     "lx": 22,
-     "v": 7331,
-     "ve": 6,
-     "p": 1137,
+     "pk": "QSVb0lI",
+     "t": "Supers 12-20",
+     "lm": 12,
+     "lx": 20,
+     "v": 5293,
+     "ve": 4,
+     "p": 1115,
      "rt": null,
      "rc": 0,
-     "a": "Kladen#2631",
-     "ap": "F1w1S4C",
+     "a": "Supers",
+     "ap": "24q2mKX",
      "sx": 18,
      "mv": 1087,
      "mcp": false,
@@ -3233,13 +3233,56 @@
      "d": "voidscar-arena"
     },
     {
+     "pk": "SZXM6yq",
+     "t": "Voidscar Arena - Kladen",
+     "lm": 16,
+     "lx": 22,
+     "v": 7729,
+     "ve": 6,
+     "p": 1094,
+     "rt": null,
+     "rc": 0,
+     "a": "Kladen#2631",
+     "ap": "F1w1S4C",
+     "sx": 18,
+     "mv": 1087,
+     "mcp": false,
+     "pub": "world",
+     "kg": 146,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 4,
+     "f": 2,
+     "d": "voidscar-arena"
+    },
+    {
      "pk": "1BQXKs2",
      "t": "Voidscar Arena 12+ Pug Friendly",
      "lm": 12,
      "lx": 18,
-     "v": 10733,
+     "v": 11236,
      "ve": 6,
-     "p": 1136,
+     "p": 1084,
      "rt": 9,
      "rc": 1,
      "a": "Crusciero#2689",
@@ -3271,51 +3314,8 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 4,
-     "f": 6,
-     "d": "voidscar-arena"
-    },
-    {
-     "pk": "79VBIKs",
-     "t": "elitzur_voidscar_1",
-     "lm": 2,
-     "lx": 17,
-     "v": 38418,
-     "ve": 33,
-     "p": 935,
-     "rt": 6,
-     "rc": 1,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
-     "sx": 18,
-     "mv": 1087,
-     "mcp": false,
-     "pub": "world",
-     "kg": 146,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 158,
-       "k": "Xal'atath's Bargain: Voidbound"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
      "r": 5,
-     "f": 13,
+     "f": 6,
      "d": "voidscar-arena"
     },
     {
@@ -3323,9 +3323,9 @@
      "t": "Yoda +22",
      "lm": 2,
      "lx": 25,
-     "v": 1790,
+     "v": 2071,
      "ve": 2,
-     "p": 722,
+     "p": 731,
      "rt": null,
      "rc": 0,
      "a": "Unshackle4572",
@@ -3362,17 +3362,17 @@
      "d": "voidscar-arena"
     },
     {
-     "pk": "rSn4HzQ",
-     "t": "No skip",
-     "lm": 25,
-     "lx": 25,
-     "v": 2269,
-     "ve": 4,
-     "p": 482,
+     "pk": "Vf4Z9pB",
+     "t": "elitzur_voidscar_2",
+     "lm": 18,
+     "lx": 22,
+     "v": 5673,
+     "ve": 2,
+     "p": 569,
      "rt": null,
      "rc": 0,
-     "a": "Argeiphontes",
-     "ap": "wLpuPSy",
+     "a": "elitzur",
+     "ap": "Nr0x65H",
      "sx": 18,
      "mv": 1087,
      "mcp": false,
@@ -3392,8 +3392,8 @@
        "k": "Tyrannical"
       },
       {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
       },
       {
        "i": 147,
@@ -3409,9 +3409,9 @@
      "t": "no skip",
      "lm": 14,
      "lx": 25,
-     "v": 608,
+     "v": 732,
      "ve": 4,
-     "p": 432,
+     "p": 390,
      "rt": null,
      "rc": 0,
      "a": "raincheque",
@@ -3448,17 +3448,17 @@
      "d": "voidscar-arena"
     },
     {
-     "pk": "Vf4Z9pB",
-     "t": "elitzur_voidscar_2",
-     "lm": 18,
-     "lx": 22,
-     "v": 5491,
-     "ve": 2,
-     "p": 283,
+     "pk": "rSn4HzQ",
+     "t": "No skip",
+     "lm": 25,
+     "lx": 25,
+     "v": 2355,
+     "ve": 4,
+     "p": 315,
      "rt": null,
      "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
+     "a": "Argeiphontes",
+     "ap": "wLpuPSy",
      "sx": 18,
      "mv": 1087,
      "mcp": false,
@@ -3478,8 +3478,8 @@
        "k": "Tyrannical"
       },
       {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
       },
       {
        "i": 147,
@@ -3495,9 +3495,9 @@
      "t": "Pug friendly - Deekay (DK)",
      "lm": 14,
      "lx": 20,
-     "v": 1000,
+     "v": 1102,
      "ve": 3,
-     "p": 252,
+     "p": 221,
      "rt": null,
      "rc": 0,
      "a": "Deekay",
@@ -3534,185 +3534,13 @@
      "d": "voidscar-arena"
     },
     {
-     "pk": "KS5YPtz",
-     "t": "Primal Arena - Wolf",
-     "lm": 2,
-     "lx": 15,
-     "v": 942,
-     "ve": 4,
-     "p": 163,
-     "rt": null,
-     "rc": 0,
-     "a": "xWolfey",
-     "ap": "3V7ti7T",
-     "sx": 18,
-     "mv": 1087,
-     "mcp": false,
-     "pub": "world",
-     "kg": 146,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 11,
-     "f": 0,
-     "d": "voidscar-arena"
-    },
-    {
-     "pk": "R9eG64l",
-     "t": "Laz VSA Main",
-     "lm": 20,
-     "lx": 25,
-     "v": 482,
-     "ve": 2,
-     "p": 131,
-     "rt": null,
-     "rc": 0,
-     "a": "lazarus114",
-     "ap": "7KAR7Rg",
-     "sx": 18,
-     "mv": 1087,
-     "mcp": false,
-     "pub": "world",
-     "kg": 146,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 12,
-     "f": 0,
-     "d": "voidscar-arena"
-    },
-    {
-     "pk": "pbafCgD",
-     "t": "elitzur_voidscar_3",
-     "lm": 18,
-     "lx": 22,
-     "v": 1048,
-     "ve": 4,
-     "p": 116,
-     "rt": null,
-     "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
-     "sx": 18,
-     "mv": 1087,
-     "mcp": false,
-     "pub": "world",
-     "kg": 146,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 158,
-       "k": "Xal'atath's Bargain: Voidbound"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 13,
-     "f": 1,
-     "d": "voidscar-arena"
-    },
-    {
-     "pk": "R2qdy0B",
-     "t": "elitzur_voidscar_4",
-     "lm": 20,
-     "lx": 22,
-     "v": 847,
-     "ve": 4,
-     "p": 97,
-     "rt": null,
-     "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
-     "sx": 18,
-     "mv": 1087,
-     "mcp": false,
-     "pub": "world",
-     "kg": 146,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 14,
-     "f": 1,
-     "d": "voidscar-arena"
-    },
-    {
      "pk": "VbvN3sZ",
      "t": "ARE YOU NOT ENTERTAINED?",
      "lm": 10,
      "lx": 10,
-     "v": 104,
+     "v": 257,
      "ve": 3,
-     "p": 95,
+     "p": 219,
      "rt": null,
      "rc": 0,
      "a": "ticcyhk",
@@ -3744,22 +3572,194 @@
        "k": "Xal'atath's Guile"
       }
      ],
+     "r": 11,
+     "f": 0,
+     "d": "voidscar-arena"
+    },
+    {
+     "pk": "pbafCgD",
+     "t": "elitzur_voidscar_3",
+     "lm": 18,
+     "lx": 22,
+     "v": 1093,
+     "ve": 4,
+     "p": 188,
+     "rt": null,
+     "rc": 0,
+     "a": "elitzur",
+     "ap": "Nr0x65H",
+     "sx": 18,
+     "mv": 1087,
+     "mcp": false,
+     "pub": "world",
+     "kg": 146,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 12,
+     "f": 1,
+     "d": "voidscar-arena"
+    },
+    {
+     "pk": "R2qdy0B",
+     "t": "elitzur_voidscar_4",
+     "lm": 20,
+     "lx": 22,
+     "v": 883,
+     "ve": 4,
+     "p": 169,
+     "rt": null,
+     "rc": 0,
+     "a": "elitzur",
+     "ap": "Nr0x65H",
+     "sx": 18,
+     "mv": 1087,
+     "mcp": false,
+     "pub": "world",
+     "kg": 146,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 13,
+     "f": 1,
+     "d": "voidscar-arena"
+    },
+    {
+     "pk": "KS5YPtz",
+     "t": "Primal Arena - Wolf",
+     "lm": 2,
+     "lx": 15,
+     "v": 1020,
+     "ve": 4,
+     "p": 153,
+     "rt": null,
+     "rc": 0,
+     "a": "xWolfey",
+     "ap": "3V7ti7T",
+     "sx": 18,
+     "mv": 1087,
+     "mcp": false,
+     "pub": "world",
+     "kg": 146,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 14,
+     "f": 0,
+     "d": "voidscar-arena"
+    },
+    {
+     "pk": "A0LIq0f",
+     "t": "Its a \"good one\"",
+     "lm": 20,
+     "lx": 20,
+     "v": 547,
+     "ve": 3,
+     "p": 102,
+     "rt": null,
+     "rc": 0,
+     "a": "Cheesethemanatee",
+     "ap": "IG4G6LD",
+     "sx": 18,
+     "mv": 1087,
+     "mcp": false,
+     "pub": "world",
+     "kg": 146,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
      "r": 15,
      "f": 0,
      "d": "voidscar-arena"
     },
     {
-     "pk": "lrIFwd6",
-     "t": "ElonMusk NFT BEST route",
-     "lm": 15,
-     "lx": 15,
-     "v": 495,
+     "pk": "R9eG64l",
+     "t": "Laz VSA Main",
+     "lm": 20,
+     "lx": 25,
+     "v": 504,
      "ve": 3,
-     "p": 82,
+     "p": 94,
      "rt": null,
      "rc": 0,
-     "a": "Heycheze",
-     "ap": "4WfyBt9",
+     "a": "lazarus114",
+     "ap": "7KAR7Rg",
      "sx": 18,
      "mv": 1087,
      "mcp": false,
@@ -3792,17 +3792,17 @@
      "d": "voidscar-arena"
     },
     {
-     "pk": "utRtsok",
-     "t": "Voidscar Arena Temporary Route",
-     "lm": 16,
-     "lx": 16,
-     "v": 246,
-     "ve": 4,
-     "p": 70,
+     "pk": "FobIr3T",
+     "t": "Voidscar Arena",
+     "lm": 17,
+     "lx": 18,
+     "v": 67,
+     "ve": 2,
+     "p": 61,
      "rt": null,
      "rc": 0,
-     "a": "Angrum#2618",
-     "ap": "4zpzg3Q",
+     "a": "Zalndraeda",
+     "ap": "XFMUAL6",
      "sx": 18,
      "mv": 1087,
      "mcp": false,
@@ -3814,16 +3814,16 @@
        "k": "Lindormi's Guidance"
       },
       {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
        "i": 9,
        "k": "Tyrannical"
       },
       {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
       },
       {
        "i": 147,
@@ -3831,21 +3831,21 @@
       }
      ],
      "r": 17,
-     "f": 1,
+     "f": 0,
      "d": "voidscar-arena"
     },
     {
-     "pk": "A0LIq0f",
-     "t": "Its a \"good one\"",
-     "lm": 20,
-     "lx": 20,
-     "v": 443,
+     "pk": "lrIFwd6",
+     "t": "ElonMusk NFT BEST route",
+     "lm": 15,
+     "lx": 15,
+     "v": 511,
      "ve": 3,
-     "p": 64,
+     "p": 57,
      "rt": null,
      "rc": 0,
-     "a": "Cheesethemanatee",
-     "ap": "IG4G6LD",
+     "a": "Heycheze",
+     "ap": "4WfyBt9",
      "sx": 18,
      "mv": 1087,
      "mcp": false,
@@ -3888,11 +3888,11 @@
      "t": "Skandar Tank - Ruby Life Pools (+10 to +16)",
      "lm": 2,
      "lx": 25,
-     "v": 110809,
+     "v": 111560,
      "ve": 31,
-     "p": 2395,
+     "p": 3324,
      "rt": 8.8,
-     "rc": 8,
+     "rc": 9,
      "a": "Skandar Tank",
      "ap": "4zkdIZp",
      "sx": 18,
@@ -3931,9 +3931,9 @@
      "t": "Skandar Tank - Ruby Life Pools - Higher keys (+17 to +20)",
      "lm": 2,
      "lx": 2,
-     "v": 14107,
+     "v": 14557,
      "ve": 8,
-     "p": 1231,
+     "p": 1191,
      "rt": null,
      "rc": 0,
      "a": "Skandar Tank",
@@ -3966,93 +3966,7 @@
       }
      ],
      "r": 2,
-     "f": 12,
-     "d": "ruby-life-pools"
-    },
-    {
-     "pk": "S95ZYbV",
-     "t": "Skandar Tank - Rank 1 Ruby Life Pools - 0.1% Title keys (+21 to +23)",
-     "lm": 2,
-     "lx": 2,
-     "v": 2333,
-     "ve": 4,
-     "p": 813,
-     "rt": null,
-     "rc": 0,
-     "a": "Skandar Tank",
-     "ap": "4zkdIZp",
-     "sx": 18,
-     "mv": 1088,
-     "mcp": false,
-     "pub": "world",
-     "kg": 72,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 3,
-     "f": 5,
-     "d": "ruby-life-pools"
-    },
-    {
-     "pk": "t8S4Dz1",
-     "t": "Ruby Life Pools 12+ Pug Friendly",
-     "lm": 10,
-     "lx": 20,
-     "v": 6294,
-     "ve": 6,
-     "p": 808,
-     "rt": null,
-     "rc": 0,
-     "a": "Crusciero#2689",
-     "ap": "aJktjMx",
-     "sx": 18,
-     "mv": 1088,
-     "mcp": false,
-     "pub": "world",
-     "kg": 72,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 4,
-     "f": 5,
+     "f": 11,
      "d": "ruby-life-pools"
     },
     {
@@ -4060,9 +3974,9 @@
      "t": "elitzur_rlp_1",
      "lm": 2,
      "lx": 17,
-     "v": 38375,
+     "v": 38558,
      "ve": 30,
-     "p": 639,
+     "p": 1019,
      "rt": 10,
      "rc": 2,
      "a": "elitzur",
@@ -4094,8 +4008,94 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 5,
+     "r": 3,
      "f": 17,
+     "d": "ruby-life-pools"
+    },
+    {
+     "pk": "S95ZYbV",
+     "t": "Skandar Tank - Rank 1 Ruby Life Pools - 0.1% Title keys (+21 to +23)",
+     "lm": 2,
+     "lx": 2,
+     "v": 2615,
+     "ve": 4,
+     "p": 839,
+     "rt": null,
+     "rc": 0,
+     "a": "Skandar Tank",
+     "ap": "4zkdIZp",
+     "sx": 18,
+     "mv": 1088,
+     "mcp": false,
+     "pub": "world",
+     "kg": 72,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 4,
+     "f": 5,
+     "d": "ruby-life-pools"
+    },
+    {
+     "pk": "t8S4Dz1",
+     "t": "Ruby Life Pools 12+ Pug Friendly",
+     "lm": 10,
+     "lx": 20,
+     "v": 6652,
+     "ve": 6,
+     "p": 717,
+     "rt": null,
+     "rc": 0,
+     "a": "Crusciero#2689",
+     "ap": "aJktjMx",
+     "sx": 18,
+     "mv": 1088,
+     "mcp": false,
+     "pub": "world",
+     "kg": 72,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 5,
+     "f": 5,
      "d": "ruby-life-pools"
     },
     {
@@ -4103,9 +4103,9 @@
      "t": "Supers 12-20",
      "lm": 12,
      "lx": 25,
-     "v": 1736,
+     "v": 1928,
      "ve": 2,
-     "p": 507,
+     "p": 543,
      "rt": null,
      "rc": 0,
      "a": "Supers",
@@ -4146,9 +4146,9 @@
      "t": "elitzur_rlp_2",
      "lm": 18,
      "lx": 22,
-     "v": 5477,
+     "v": 5598,
      "ve": 4,
-     "p": 317,
+     "p": 532,
      "rt": null,
      "rc": 0,
      "a": "elitzur",
@@ -4189,9 +4189,9 @@
      "t": "PUG FRIENDLY ROUTE RLP - DJEGOR",
      "lm": 2,
      "lx": 15,
-     "v": 424,
+     "v": 494,
      "ve": 2,
-     "p": 287,
+     "p": 279,
      "rt": null,
      "rc": 0,
      "a": "Djego",
@@ -4228,13 +4228,56 @@
      "d": "ruby-life-pools"
     },
     {
+     "pk": "57fOkeW",
+     "t": "elitzur_rlp_3",
+     "lm": 19,
+     "lx": 25,
+     "v": 680,
+     "ve": 2,
+     "p": 244,
+     "rt": null,
+     "rc": 0,
+     "a": "elitzur",
+     "ap": "Nr0x65H",
+     "sx": 18,
+     "mv": 1088,
+     "mcp": false,
+     "pub": "world",
+     "kg": 72,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 9,
+     "f": 1,
+     "d": "ruby-life-pools"
+    },
+    {
      "pk": "o8vsoU3",
      "t": "Nef's Simple PUG Route",
      "lm": 2,
      "lx": 13,
-     "v": 1966,
+     "v": 2052,
      "ve": 4,
-     "p": 240,
+     "p": 218,
      "rt": null,
      "rc": 0,
      "a": "Neflyn",
@@ -4266,7 +4309,7 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 9,
+     "r": 10,
      "f": 0,
      "d": "ruby-life-pools"
     },
@@ -4275,9 +4318,9 @@
      "t": "Ruby Life Pools - Kladen",
      "lm": 16,
      "lx": 25,
-     "v": 1133,
-     "ve": 2,
-     "p": 201,
+     "v": 1181,
+     "ve": 3,
+     "p": 158,
      "rt": null,
      "rc": 0,
      "a": "Kladen#2631",
@@ -4309,49 +4352,6 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 10,
-     "f": 0,
-     "d": "ruby-life-pools"
-    },
-    {
-     "pk": "ZYF1S4M",
-     "t": "Laz RLP Main",
-     "lm": 20,
-     "lx": 25,
-     "v": 498,
-     "ve": 3,
-     "p": 165,
-     "rt": null,
-     "rc": 0,
-     "a": "lazarus114",
-     "ap": "7KAR7Rg",
-     "sx": 18,
-     "mv": 1088,
-     "mcp": false,
-     "pub": "world",
-     "kg": 72,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
      "r": 11,
      "f": 0,
      "d": "ruby-life-pools"
@@ -4361,9 +4361,9 @@
      "t": "Bassins d'essence rubis - Avancé - Carpette Diem",
      "lm": 11,
      "lx": 15,
-     "v": 4888,
+     "v": 4950,
      "ve": 5,
-     "p": 134,
+     "p": 152,
      "rt": 10,
      "rc": 1,
      "a": "Zoma_Ancestral",
@@ -4400,17 +4400,17 @@
      "d": "ruby-life-pools"
     },
     {
-     "pk": "57fOkeW",
-     "t": "elitzur_rlp_3",
-     "lm": 19,
+     "pk": "ZYF1S4M",
+     "t": "Laz RLP Main",
+     "lm": 20,
      "lx": 25,
-     "v": 623,
-     "ve": 2,
+     "v": 526,
+     "ve": 3,
      "p": 117,
      "rt": null,
      "rc": 0,
-     "a": "elitzur",
-     "ap": "Nr0x65H",
+     "a": "lazarus114",
+     "ap": "7KAR7Rg",
      "sx": 18,
      "mv": 1088,
      "mcp": false,
@@ -4439,92 +4439,6 @@
       }
      ],
      "r": 13,
-     "f": 1,
-     "d": "ruby-life-pools"
-    },
-    {
-     "pk": "2ueN0hj",
-     "t": "Ruby Life Pools",
-     "lm": 2,
-     "lx": 2,
-     "v": 132,
-     "ve": 2,
-     "p": 86,
-     "rt": null,
-     "rc": 0,
-     "a": "vert",
-     "ap": "sRPCfyC",
-     "sx": 18,
-     "mv": 1088,
-     "mcp": false,
-     "pub": "world",
-     "kg": 72,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 14,
-     "f": 0,
-     "d": "ruby-life-pools"
-    },
-    {
-     "pk": "YXDWwPq",
-     "t": "+14",
-     "lm": 13,
-     "lx": 18,
-     "v": 325,
-     "ve": 2,
-     "p": 82,
-     "rt": null,
-     "rc": 0,
-     "a": "Dramall",
-     "ap": "bNeSrr2",
-     "sx": 18,
-     "mv": 1088,
-     "mcp": false,
-     "pub": "world",
-     "kg": 72,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 15,
      "f": 0,
      "d": "ruby-life-pools"
     },
@@ -4533,9 +4447,9 @@
      "t": "RLP",
      "lm": 15,
      "lx": 15,
-     "v": 81,
-     "ve": 1,
-     "p": 76,
+     "v": 97,
+     "ve": 2,
+     "p": 87,
      "rt": null,
      "rc": 0,
      "a": "tfj_demise",
@@ -4567,7 +4481,7 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 16,
+     "r": 14,
      "f": 0,
      "d": "ruby-life-pools"
     },
@@ -4576,9 +4490,9 @@
      "t": "Ruby-Standard",
      "lm": 2,
      "lx": 25,
-     "v": 84,
+     "v": 127,
      "ve": 27,
-     "p": 63,
+     "p": 75,
      "rt": null,
      "rc": 0,
      "a": "Reemi#2171",
@@ -4610,22 +4524,108 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 17,
+     "r": 15,
      "f": 1,
      "d": "ruby-life-pools"
     },
     {
-     "pk": "XjVlG2f",
-     "t": "Primal Pools - Wolf",
+     "pk": "2ueN0hj",
+     "t": "Ruby Life Pools",
      "lm": 2,
-     "lx": 15,
-     "v": 8958,
-     "ve": 6,
-     "p": 49,
-     "rt": 1,
-     "rc": 1,
-     "a": "xWolfey",
-     "ap": "3V7ti7T",
+     "lx": 2,
+     "v": 146,
+     "ve": 2,
+     "p": 73,
+     "rt": null,
+     "rc": 0,
+     "a": "vert",
+     "ap": "sRPCfyC",
+     "sx": 18,
+     "mv": 1088,
+     "mcp": false,
+     "pub": "world",
+     "kg": 72,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 16,
+     "f": 0,
+     "d": "ruby-life-pools"
+    },
+    {
+     "pk": "YXDWwPq",
+     "t": "+14",
+     "lm": 13,
+     "lx": 18,
+     "v": 338,
+     "ve": 2,
+     "p": 67,
+     "rt": null,
+     "rc": 0,
+     "a": "Dramall",
+     "ap": "bNeSrr2",
+     "sx": 18,
+     "mv": 1088,
+     "mcp": false,
+     "pub": "world",
+     "kg": 72,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 17,
+     "f": 0,
+     "d": "ruby-life-pools"
+    },
+    {
+     "pk": "RCy961u",
+     "t": "Kub's RLP +12",
+     "lm": 12,
+     "lx": 12,
+     "v": 70,
+     "ve": 1,
+     "p": 65,
+     "rt": null,
+     "rc": 0,
+     "a": "KubTheBeast",
+     "ap": "ylMthCi",
      "sx": 18,
      "mv": 1088,
      "mcp": false,
@@ -4654,7 +4654,7 @@
       }
      ],
      "r": 18,
-     "f": 3,
+     "f": 1,
      "d": "ruby-life-pools"
     }
    ]
@@ -4668,11 +4668,11 @@
      "t": "Skandar Tank - King's Rest (+10 to +15)",
      "lm": 7,
      "lx": 15,
-     "v": 96583,
+     "v": 97151,
      "ve": 49,
-     "p": 1605,
-     "rt": 10,
-     "rc": 8,
+     "p": 2485,
+     "rt": 9.8,
+     "rc": 9,
      "a": "Skandar Tank",
      "ap": "4zkdIZp",
      "sx": 18,
@@ -4711,9 +4711,9 @@
      "t": "Skandar Tank - King's Rest Rank 1 (+21 to +23, 0.1% Title Keys)",
      "lm": 7,
      "lx": 7,
-     "v": 1397,
+     "v": 1646,
      "ve": 4,
-     "p": 701,
+     "p": 804,
      "rt": null,
      "rc": 0,
      "a": "Skandar Tank",
@@ -4750,142 +4750,13 @@
      "d": "kings-rest"
     },
     {
-     "pk": "TdC9Aps",
-     "t": "Skandar Tank - King's Rest High Keys (+17 to +20)",
-     "lm": 7,
-     "lx": 7,
-     "v": 11157,
-     "ve": 8,
-     "p": 616,
-     "rt": 10,
-     "rc": 1,
-     "a": "Skandar Tank",
-     "ap": "4zkdIZp",
-     "sx": 18,
-     "mv": 1065,
-     "mcp": false,
-     "pub": "world",
-     "kg": 16,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 3,
-     "f": 10,
-     "d": "kings-rest"
-    },
-    {
-     "pk": "cbiLsao",
-     "t": "King's Rest - Yoda 20 route",
-     "lm": 17,
-     "lx": 21,
-     "v": 3779,
-     "ve": 4,
-     "p": 505,
-     "rt": null,
-     "rc": 0,
-     "a": "Nibble42069",
-     "ap": "YrnmhVi",
-     "sx": 18,
-     "mv": 1065,
-     "mcp": false,
-     "pub": "world",
-     "kg": 16,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 4,
-     "f": 2,
-     "d": "kings-rest"
-    },
-    {
-     "pk": "W6gkTHk",
-     "t": "King's Rest 12+ Pug Friendly",
-     "lm": 12,
-     "lx": 18,
-     "v": 4472,
-     "ve": 4,
-     "p": 385,
-     "rt": null,
-     "rc": 0,
-     "a": "Crusciero#2689",
-     "ap": "aJktjMx",
-     "sx": 18,
-     "mv": 1065,
-     "mcp": false,
-     "pub": "world",
-     "kg": 16,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 5,
-     "f": 3,
-     "d": "kings-rest"
-    },
-    {
      "pk": "0S4viIA",
      "t": "elitzur_kr_1",
      "lm": 2,
      "lx": 17,
-     "v": 14334,
+     "v": 14450,
      "ve": 4,
-     "p": 212,
+     "p": 586,
      "rt": null,
      "rc": 0,
      "a": "elitzur",
@@ -4917,8 +4788,137 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 6,
+     "r": 3,
      "f": 12,
+     "d": "kings-rest"
+    },
+    {
+     "pk": "TdC9Aps",
+     "t": "Skandar Tank - King's Rest High Keys (+17 to +20)",
+     "lm": 7,
+     "lx": 7,
+     "v": 11515,
+     "ve": 8,
+     "p": 574,
+     "rt": 10,
+     "rc": 1,
+     "a": "Skandar Tank",
+     "ap": "4zkdIZp",
+     "sx": 18,
+     "mv": 1065,
+     "mcp": false,
+     "pub": "world",
+     "kg": 16,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 4,
+     "f": 9,
+     "d": "kings-rest"
+    },
+    {
+     "pk": "cbiLsao",
+     "t": "King's Rest - Yoda 20 route",
+     "lm": 17,
+     "lx": 21,
+     "v": 4070,
+     "ve": 4,
+     "p": 490,
+     "rt": null,
+     "rc": 0,
+     "a": "Nibble42069",
+     "ap": "YrnmhVi",
+     "sx": 18,
+     "mv": 1065,
+     "mcp": false,
+     "pub": "world",
+     "kg": 16,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 5,
+     "f": 2,
+     "d": "kings-rest"
+    },
+    {
+     "pk": "W6gkTHk",
+     "t": "King's Rest 12+ Pug Friendly",
+     "lm": 12,
+     "lx": 18,
+     "v": 4746,
+     "ve": 4,
+     "p": 363,
+     "rt": null,
+     "rc": 0,
+     "a": "Crusciero#2689",
+     "ap": "aJktjMx",
+     "sx": 18,
+     "mv": 1065,
+     "mcp": false,
+     "pub": "world",
+     "kg": 16,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 6,
+     "f": 3,
      "d": "kings-rest"
     },
     {
@@ -4926,9 +4926,9 @@
      "t": "elitzur_kr_3",
      "lm": 19,
      "lx": 25,
-     "v": 505,
+     "v": 547,
      "ve": 3,
-     "p": 157,
+     "p": 172,
      "rt": null,
      "rc": 0,
      "a": "elitzur",
@@ -4965,99 +4965,13 @@
      "d": "kings-rest"
     },
     {
-     "pk": "m90BvlT",
-     "t": "King's Rest - Kladen",
-     "lm": 16,
-     "lx": 25,
-     "v": 664,
-     "ve": 4,
-     "p": 128,
-     "rt": null,
-     "rc": 0,
-     "a": "Kladen#2631",
-     "ap": "F1w1S4C",
-     "sx": 18,
-     "mv": 1065,
-     "mcp": false,
-     "pub": "world",
-     "kg": 16,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 8,
-     "f": 0,
-     "d": "kings-rest"
-    },
-    {
-     "pk": "IpViL8U",
-     "t": "mage skip",
-     "lm": 2,
-     "lx": 25,
-     "v": 503,
-     "ve": 4,
-     "p": 104,
-     "rt": null,
-     "rc": 0,
-     "a": "Celebraum",
-     "ap": "C3YYsmR",
-     "sx": 18,
-     "mv": 1065,
-     "mcp": false,
-     "pub": "world",
-     "kg": 16,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 160,
-       "k": "Xal'atath's Bargain: Devour"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 9,
-     "f": 0,
-     "d": "kings-rest"
-    },
-    {
      "pk": "7U8beYK",
      "t": "Kub's KR +12",
      "lm": 10,
      "lx": 10,
-     "v": 102,
-     "ve": 1,
-     "p": 95,
+     "v": 153,
+     "ve": 2,
+     "p": 139,
      "rt": null,
      "rc": 0,
      "a": "KubTheBeast",
@@ -5089,8 +5003,51 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 10,
+     "r": 8,
      "f": 1,
+     "d": "kings-rest"
+    },
+    {
+     "pk": "m90BvlT",
+     "t": "King's Rest - Kladen",
+     "lm": 16,
+     "lx": 25,
+     "v": 692,
+     "ve": 4,
+     "p": 130,
+     "rt": null,
+     "rc": 0,
+     "a": "Kladen#2631",
+     "ap": "F1w1S4C",
+     "sx": 18,
+     "mv": 1065,
+     "mcp": false,
+     "pub": "world",
+     "kg": 16,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 9,
+     "f": 0,
      "d": "kings-rest"
     },
     {
@@ -5098,9 +5055,9 @@
      "t": "Primal Rest - Wolf",
      "lm": 2,
      "lx": 15,
-     "v": 600,
+     "v": 654,
      "ve": 8,
-     "p": 92,
+     "p": 88,
      "rt": null,
      "rc": 0,
      "a": "xWolfey",
@@ -5132,22 +5089,22 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 11,
+     "r": 10,
      "f": 0,
      "d": "kings-rest"
     },
     {
-     "pk": "uBdpCZ2",
-     "t": "Supers 12-20",
-     "lm": 12,
+     "pk": "IpViL8U",
+     "t": "mage skip",
+     "lm": 2,
      "lx": 25,
-     "v": 1678,
-     "ve": 3,
-     "p": 77,
+     "v": 525,
+     "ve": 4,
+     "p": 87,
      "rt": null,
      "rc": 0,
-     "a": "Supers",
-     "ap": "24q2mKX",
+     "a": "Celebraum",
+     "ap": "C3YYsmR",
      "sx": 18,
      "mv": 1065,
      "mcp": false,
@@ -5159,23 +5116,23 @@
        "k": "Lindormi's Guidance"
       },
       {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
        "i": 10,
        "k": "Fortified"
       },
       {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 160,
+       "k": "Xal'atath's Bargain: Devour"
       },
       {
        "i": 147,
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 12,
+     "r": 11,
      "f": 0,
      "d": "kings-rest"
     },
@@ -5184,9 +5141,9 @@
      "t": "King's Rest",
      "lm": 2,
      "lx": 25,
-     "v": 163,
-     "ve": 3,
-     "p": 72,
+     "v": 202,
+     "ve": 4,
+     "p": 75,
      "rt": null,
      "rc": 0,
      "a": "berzhus",
@@ -5218,7 +5175,7 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 13,
+     "r": 12,
      "f": 0,
      "d": "kings-rest"
     },
@@ -5227,9 +5184,9 @@
      "t": "SlapMeOneMoreTime",
      "lm": 16,
      "lx": 25,
-     "v": 181,
+     "v": 212,
      "ve": 4,
-     "p": 66,
+     "p": 71,
      "rt": null,
      "rc": 0,
      "a": "DylanGrech92#2300",
@@ -5261,7 +5218,7 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 14,
+     "r": 13,
      "f": 0,
      "d": "kings-rest"
     },
@@ -5270,9 +5227,9 @@
      "t": "Nonskip route",
      "lm": 7,
      "lx": 7,
-     "v": 87,
+     "v": 112,
      "ve": 4,
-     "p": 51,
+     "p": 64,
      "rt": null,
      "rc": 0,
      "a": "RobityBobity#2519",
@@ -5304,8 +5261,94 @@
        "k": "Xal'atath's Guile"
       }
      ],
+     "r": 14,
+     "f": 0,
+     "d": "kings-rest"
+    },
+    {
+     "pk": "uBdpCZ2",
+     "t": "Supers 12-20",
+     "lm": 12,
+     "lx": 25,
+     "v": 1743,
+     "ve": 3,
+     "p": 64,
+     "rt": null,
+     "rc": 0,
+     "a": "Supers",
+     "ap": "24q2mKX",
+     "sx": 18,
+     "mv": 1065,
+     "mcp": false,
+     "pub": "world",
+     "kg": 16,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
      "r": 15,
      "f": 0,
+     "d": "kings-rest"
+    },
+    {
+     "pk": "wlcC6Wl",
+     "t": "elitzur_kr_2",
+     "lm": 18,
+     "lx": 22,
+     "v": 1496,
+     "ve": 4,
+     "p": 55,
+     "rt": null,
+     "rc": 0,
+     "a": "elitzur",
+     "ap": "Nr0x65H",
+     "sx": 18,
+     "mv": 1065,
+     "mcp": false,
+     "pub": "world",
+     "kg": 16,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 16,
+     "f": 1,
      "d": "kings-rest"
     },
     {
@@ -5313,9 +5356,9 @@
      "t": "Reggie high key",
      "lm": 2,
      "lx": 25,
-     "v": 490,
+     "v": 511,
      "ve": 5,
-     "p": 43,
+     "p": 48,
      "rt": null,
      "rc": 0,
      "a": "darkreggie",
@@ -5347,67 +5390,24 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 16,
+     "r": 17,
      "f": 0,
      "d": "kings-rest"
     },
     {
-     "pk": "rgG7diW",
-     "t": "Repos du roi - Avancé - Carpette Diem",
-     "lm": 11,
+     "pk": "SmhB7th",
+     "t": "PUG FRIENDLY ROUTE KR - DJEGOR",
+     "lm": 2,
      "lx": 15,
-     "v": 3518,
-     "ve": 4,
-     "p": 42,
+     "v": 92,
+     "ve": 2,
+     "p": 46,
      "rt": null,
      "rc": 0,
-     "a": "Zoma_Ancestral",
-     "ap": "4zmPlJY",
+     "a": "Djego",
+     "ap": "RfJPTD1",
      "sx": 18,
      "mv": 1065,
-     "mcp": false,
-     "pub": "world",
-     "kg": 16,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 17,
-     "f": 2,
-     "d": "kings-rest"
-    },
-    {
-     "pk": "In4PEIw",
-     "t": "Tactyks PUG Friendly",
-     "lm": 14,
-     "lx": 14,
-     "v": 32519,
-     "ve": 547,
-     "p": 41,
-     "rt": 10,
-     "rc": 2,
-     "a": "LoganGrimDK#1312",
-     "ap": "IbrwRK8",
-     "sx": 18,
-     "mv": 837,
      "mcp": false,
      "pub": "world",
      "kg": 16,
@@ -5434,7 +5434,7 @@
       }
      ],
      "r": 18,
-     "f": 24,
+     "f": 0,
      "d": "kings-rest"
     }
    ]
@@ -5448,11 +5448,11 @@
      "t": "Skandar Tank - Temple of Sethraliss (+10 to +15)",
      "lm": 2,
      "lx": 2,
-     "v": 104442,
+     "v": 105081,
      "ve": 20,
-     "p": 1819,
-     "rt": 10,
-     "rc": 7,
+     "p": 2869,
+     "rt": 9.8,
+     "rc": 9,
      "a": "Skandar Tank",
      "ap": "4zkdIZp",
      "sx": 18,
@@ -5487,185 +5487,13 @@
      "d": "temple-of-sethraliss"
     },
     {
-     "pk": "1CqquAO",
-     "t": "Skandar Tank - Temple of Sethraliss Rank 1 Route (+21 to +23, 0.1% Title)",
-     "lm": 2,
-     "lx": 2,
-     "v": 1380,
-     "ve": 4,
-     "p": 732,
-     "rt": null,
-     "rc": 0,
-     "a": "Skandar Tank",
-     "ap": "4zkdIZp",
-     "sx": 18,
-     "mv": 1066,
-     "mcp": false,
-     "pub": "world",
-     "kg": 19,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 2,
-     "f": 1,
-     "d": "temple-of-sethraliss"
-    },
-    {
-     "pk": "2kI5sUN",
-     "t": "Skandar Tank - Temple of Sethraliss Higher keys (+17 to +20)",
-     "lm": 2,
-     "lx": 2,
-     "v": 11587,
-     "ve": 7,
-     "p": 493,
-     "rt": null,
-     "rc": 0,
-     "a": "Skandar Tank",
-     "ap": "4zkdIZp",
-     "sx": 18,
-     "mv": 1066,
-     "mcp": false,
-     "pub": "world",
-     "kg": 19,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 3,
-     "f": 16,
-     "d": "temple-of-sethraliss"
-    },
-    {
-     "pk": "z6BSfWt",
-     "t": "Temple of Sethraliss - Yoda 21 route",
-     "lm": 17,
-     "lx": 25,
-     "v": 4367,
-     "ve": 4,
-     "p": 473,
-     "rt": null,
-     "rc": 0,
-     "a": "Nibble42069",
-     "ap": "YrnmhVi",
-     "sx": 18,
-     "mv": 1066,
-     "mcp": false,
-     "pub": "world",
-     "kg": 19,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 158,
-       "k": "Xal'atath's Bargain: Voidbound"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 4,
-     "f": 2,
-     "d": "temple-of-sethraliss"
-    },
-    {
-     "pk": "NkRLIFA",
-     "t": "Supers 12-20",
-     "lm": 12,
-     "lx": 25,
-     "v": 1558,
-     "ve": 4,
-     "p": 386,
-     "rt": null,
-     "rc": 0,
-     "a": "Supers",
-     "ap": "24q2mKX",
-     "sx": 18,
-     "mv": 1066,
-     "mcp": false,
-     "pub": "world",
-     "kg": 19,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 5,
-     "f": 2,
-     "d": "temple-of-sethraliss"
-    },
-    {
      "pk": "0OAFipl",
      "t": "elitzur_temple_1",
      "lm": 2,
      "lx": 17,
-     "v": 20202,
+     "v": 20340,
      "ve": 4,
-     "p": 343,
+     "p": 754,
      "rt": 1,
      "rc": 1,
      "a": "elitzur",
@@ -5697,22 +5525,22 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 6,
+     "r": 2,
      "f": 6,
      "d": "temple-of-sethraliss"
     },
     {
-     "pk": "uQxFAC0",
-     "t": "Temple of Sethraliss 12+ Pug Friendly",
-     "lm": 12,
-     "lx": 20,
-     "v": 5315,
-     "ve": 5,
-     "p": 292,
+     "pk": "1CqquAO",
+     "t": "Skandar Tank - Temple of Sethraliss Rank 1 Route (+21 to +23, 0.1% Title)",
+     "lm": 2,
+     "lx": 2,
+     "v": 1590,
+     "ve": 4,
+     "p": 725,
      "rt": null,
      "rc": 0,
-     "a": "Crusciero#2689",
-     "ap": "aJktjMx",
+     "a": "Skandar Tank",
+     "ap": "4zkdIZp",
      "sx": 18,
      "mv": 1066,
      "mcp": false,
@@ -5732,16 +5560,145 @@
        "k": "Tyrannical"
       },
       {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
       },
       {
        "i": 147,
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 7,
-     "f": 3,
+     "r": 3,
+     "f": 1,
+     "d": "temple-of-sethraliss"
+    },
+    {
+     "pk": "2kI5sUN",
+     "t": "Skandar Tank - Temple of Sethraliss Higher keys (+17 to +20)",
+     "lm": 2,
+     "lx": 2,
+     "v": 12079,
+     "ve": 7,
+     "p": 466,
+     "rt": null,
+     "rc": 0,
+     "a": "Skandar Tank",
+     "ap": "4zkdIZp",
+     "sx": 18,
+     "mv": 1066,
+     "mcp": false,
+     "pub": "world",
+     "kg": 19,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 4,
+     "f": 16,
+     "d": "temple-of-sethraliss"
+    },
+    {
+     "pk": "z6BSfWt",
+     "t": "Temple of Sethraliss - Yoda 21 route",
+     "lm": 17,
+     "lx": 25,
+     "v": 4615,
+     "ve": 5,
+     "p": 439,
+     "rt": null,
+     "rc": 0,
+     "a": "Nibble42069",
+     "ap": "YrnmhVi",
+     "sx": 18,
+     "mv": 1066,
+     "mcp": false,
+     "pub": "world",
+     "kg": 19,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 5,
+     "f": 2,
+     "d": "temple-of-sethraliss"
+    },
+    {
+     "pk": "NkRLIFA",
+     "t": "Supers 12-20",
+     "lm": 12,
+     "lx": 25,
+     "v": 1773,
+     "ve": 4,
+     "p": 406,
+     "rt": null,
+     "rc": 0,
+     "a": "Supers",
+     "ap": "24q2mKX",
+     "sx": 18,
+     "mv": 1066,
+     "mcp": false,
+     "pub": "world",
+     "kg": 19,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 162,
+       "k": "Xal'atath's Bargain: Pulsar"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 6,
+     "f": 2,
      "d": "temple-of-sethraliss"
     },
     {
@@ -5749,9 +5706,9 @@
      "t": "Temple Route - Easy Flow",
      "lm": 2,
      "lx": 25,
-     "v": 198,
+     "v": 280,
      "ve": 4,
-     "p": 186,
+     "p": 253,
      "rt": null,
      "rc": 0,
      "a": "Koori",
@@ -5783,8 +5740,51 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 8,
+     "r": 7,
      "f": 0,
+     "d": "temple-of-sethraliss"
+    },
+    {
+     "pk": "uQxFAC0",
+     "t": "Temple of Sethraliss 12+ Pug Friendly",
+     "lm": 12,
+     "lx": 20,
+     "v": 5446,
+     "ve": 5,
+     "p": 217,
+     "rt": null,
+     "rc": 0,
+     "a": "Crusciero#2689",
+     "ap": "aJktjMx",
+     "sx": 18,
+     "mv": 1066,
+     "mcp": false,
+     "pub": "world",
+     "kg": 19,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 8,
+     "f": 3,
      "d": "temple-of-sethraliss"
     },
     {
@@ -5792,9 +5792,9 @@
      "t": "Nef's Simple PUG Route",
      "lm": 2,
      "lx": 13,
-     "v": 976,
+     "v": 1073,
      "ve": 4,
-     "p": 157,
+     "p": 148,
      "rt": null,
      "rc": 0,
      "a": "Neflyn",
@@ -5835,9 +5835,9 @@
      "t": "Laz TOS Main",
      "lm": 20,
      "lx": 25,
-     "v": 484,
+     "v": 513,
      "ve": 4,
-     "p": 124,
+     "p": 111,
      "rt": null,
      "rc": 0,
      "a": "lazarus114",
@@ -5878,9 +5878,9 @@
      "t": "Temple High Keys",
      "lm": 16,
      "lx": 16,
-     "v": 2121,
+     "v": 2137,
      "ve": 4,
-     "p": 83,
+     "p": 65,
      "rt": null,
      "rc": 0,
      "a": "mirxis",
@@ -5917,17 +5917,17 @@
      "d": "temple-of-sethraliss"
     },
     {
-     "pk": "TE4gfiQ",
-     "t": "Hugz - Temple of Seth",
-     "lm": 12,
+     "pk": "OAM69HD",
+     "t": "Temple of Sethraliss",
+     "lm": 2,
      "lx": 25,
-     "v": 247,
-     "ve": 4,
-     "p": 50,
+     "v": 62,
+     "ve": 1,
+     "p": 57,
      "rt": null,
      "rc": 0,
-     "a": "Killz4Hugz",
-     "ap": "POucaqN",
+     "a": "Zalndraeda",
+     "ap": "XFMUAL6",
      "sx": 18,
      "mv": 1066,
      "mcp": false,
@@ -5947,8 +5947,8 @@
        "k": "Fortified"
       },
       {
-       "i": 148,
-       "k": "Xal'atath's Bargain: Ascendant"
+       "i": 158,
+       "k": "Xal'atath's Bargain: Voidbound"
       },
       {
        "i": 147,
@@ -5956,7 +5956,7 @@
       }
      ],
      "r": 12,
-     "f": 1,
+     "f": 0,
      "d": "temple-of-sethraliss"
     },
     {
@@ -5964,9 +5964,9 @@
      "t": "Temple of Sethraliss",
      "lm": 2,
      "lx": 17,
-     "v": 89,
+     "v": 110,
      "ve": 3,
-     "p": 47,
+     "p": 48,
      "rt": null,
      "rc": 0,
      "a": "berzhus",
@@ -6003,17 +6003,17 @@
      "d": "temple-of-sethraliss"
     },
     {
-     "pk": "OAM69HD",
-     "t": "Temple of Sethraliss",
-     "lm": 2,
-     "lx": 25,
-     "v": 43,
+     "pk": "ksaDhCu",
+     "t": "Sha monk route",
+     "lm": 18,
+     "lx": 18,
+     "v": 50,
      "ve": 0,
-     "p": 39,
+     "p": 46,
      "rt": null,
      "rc": 0,
-     "a": "Zalndraeda",
-     "ap": "XFMUAL6",
+     "a": "Oliwerj1#2681",
+     "ap": "53Oysmz",
      "sx": 18,
      "mv": 1066,
      "mcp": false,
@@ -6046,56 +6046,13 @@
      "d": "temple-of-sethraliss"
     },
     {
-     "pk": "u4jkOzi",
-     "t": "Templo de Sethraliss",
-     "lm": 18,
-     "lx": 25,
-     "v": 729,
-     "ve": 4,
-     "p": 39,
-     "rt": null,
-     "rc": 0,
-     "a": "Guillermo Díaz",
-     "ap": "8kxWSgW",
-     "sx": 18,
-     "mv": 1066,
-     "mcp": false,
-     "pub": "world",
-     "kg": 19,
-     "af": [
-      {
-       "i": 165,
-       "k": "Lindormi's Guidance"
-      },
-      {
-       "i": 9,
-       "k": "Tyrannical"
-      },
-      {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
-       "i": 162,
-       "k": "Xal'atath's Bargain: Pulsar"
-      },
-      {
-       "i": 147,
-       "k": "Xal'atath's Guile"
-      }
-     ],
-     "r": 15,
-     "f": 0,
-     "d": "temple-of-sethraliss"
-    },
-    {
      "pk": "VBjuYmb",
      "t": "WW ToS v1",
      "lm": 10,
      "lx": 10,
-     "v": 5973,
+     "v": 6073,
      "ve": 11,
-     "p": 37,
+     "p": 42,
      "rt": null,
      "rc": 0,
      "a": "WinningWarcraft",
@@ -6127,22 +6084,65 @@
        "k": "Xal'atath's Guile"
       }
      ],
-     "r": 16,
+     "r": 15,
      "f": 4,
      "d": "temple-of-sethraliss"
     },
     {
-     "pk": "wERiwLF",
-     "t": "Temple safe",
-     "lm": 2,
-     "lx": 14,
-     "v": 862,
-     "ve": 3,
-     "p": 34,
+     "pk": "TE4gfiQ",
+     "t": "Hugz - Temple of Seth",
+     "lm": 12,
+     "lx": 25,
+     "v": 269,
+     "ve": 4,
+     "p": 42,
      "rt": null,
      "rc": 0,
-     "a": "Crynk",
-     "ap": "7YgZ6eO",
+     "a": "Killz4Hugz",
+     "ap": "POucaqN",
+     "sx": 18,
+     "mv": 1066,
+     "mcp": false,
+     "pub": "world",
+     "kg": 19,
+     "af": [
+      {
+       "i": 165,
+       "k": "Lindormi's Guidance"
+      },
+      {
+       "i": 9,
+       "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
+      },
+      {
+       "i": 148,
+       "k": "Xal'atath's Bargain: Ascendant"
+      },
+      {
+       "i": 147,
+       "k": "Xal'atath's Guile"
+      }
+     ],
+     "r": 16,
+     "f": 1,
+     "d": "temple-of-sethraliss"
+    },
+    {
+     "pk": "uJvOIaY",
+     "t": "Temple of Sethraliss",
+     "lm": 2,
+     "lx": 25,
+     "v": 82,
+     "ve": 4,
+     "p": 42,
+     "rt": null,
+     "rc": 0,
+     "a": "Archeon#1625",
+     "ap": "5hi7uGb",
      "sx": 18,
      "mv": 1066,
      "mcp": false,
@@ -6175,17 +6175,17 @@
      "d": "temple-of-sethraliss"
     },
     {
-     "pk": "uJvOIaY",
-     "t": "Temple of Sethraliss",
-     "lm": 2,
+     "pk": "u4jkOzi",
+     "t": "Templo de Sethraliss",
+     "lm": 18,
      "lx": 25,
-     "v": 58,
+     "v": 740,
      "ve": 4,
-     "p": 32,
+     "p": 33,
      "rt": null,
      "rc": 0,
-     "a": "Archeon#1625",
-     "ap": "5hi7uGb",
+     "a": "Guillermo Díaz",
+     "ap": "8kxWSgW",
      "sx": 18,
      "mv": 1066,
      "mcp": false,
@@ -6197,12 +6197,12 @@
        "k": "Lindormi's Guidance"
       },
       {
-       "i": 10,
-       "k": "Fortified"
-      },
-      {
        "i": 9,
        "k": "Tyrannical"
+      },
+      {
+       "i": 10,
+       "k": "Fortified"
       },
       {
        "i": 162,
@@ -6220,8 +6220,8 @@
    ]
   }
  },
- "version": "20261027T095626Z",
- "generatedAt": "2026-10-27T09:56:26.169Z",
+ "version": "20261029T110017Z",
+ "generatedAt": "2026-10-29T11:00:17.678Z",
  "source": "keystone.guru",
  "limit": 18
 }
